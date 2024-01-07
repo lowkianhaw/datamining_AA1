@@ -27,7 +27,7 @@ Use:Handle missing values, Handle data inconsistency
 
 SAS Enterprise Miner
 
-Use: Exploratory data analysis, Data modelling and evauation
+Use: Exploratory data analysis, Data modelling and evaluation
 
 
 
