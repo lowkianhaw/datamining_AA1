@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,MembershipLevel,Location,Occupation,MaritalStatus,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Churn
+100000001,39, Male,Bronze,, Adm-clerical, Never-married,15,2519.68,Home Goods,29/5/2023,0
+100000002,50, Male,Gold,Suburban, Exec-managerial,Married,88,8261.13,Home Goods,28/7/2023,0
+100000003,38, Male,Silver,Suburban, Handlers-cleaners, Divorced,57,7763.54,Electronics,9/12/2022,1
+100000004,53, Male,Platinum,Suburban, Handlers-cleaners,Married,5,3692.53,Home Goods,20/5/2022,1
+100000005,28, Female,Bronze,, Prof-specialty,Married,72,7417.03,Clothing,11/9/2022,1
+100000006,37, Female,Gold,Urban, Exec-managerial,Married,75,9115.9,Clothing,14/12/2022,1
+100000007,49, Female,Gold,Urban, Other-service,Married,67,1354.67,Clothing,22/3/2022,0
+100000008,52, Male,Gold,, Exec-managerial,Married,68,2135.74,Home Goods,27/12/2023,1
+100000009,31, Female,Gold,Urban, Prof-specialty, Never-married,53,5565.9,Electronics,6/12/2022,0
+100000010,42, Male,Silver,Rural, Exec-managerial,Married,38,8363.34,Electronics,30/12/2022,0
+100000011,37, Male,Silver,Urban, Exec-managerial,Married,45,7294.91,Home Goods,5/5/2023,1
+100000012,30, Male,Platinum,Rural, Prof-specialty,Married,49,1167.43,Home Goods,11/9/2022,1
+100000013,23, Female,Gold,Rural, Adm-clerical, Never-married,21,9820.57,Home Goods,1/7/2023,0
+100000014,32, Male,Bronze,Suburban, Sales, Never-married,62,5701.77,Clothing,12/10/2023,1
+100000015,40, Male,Gold,Rural, Craft-repair,Married,40,302.19,Electronics,23/11/2022,1
+100000016,34, Male,Bronze,Urban, Transport-moving,Married,52,3105.99,Clothing,4/12/2022,1
+100000017,25, Male,Silver,Rural, Farming-fishing, Never-married,77,5160.69,Clothing,6/12/2023,1
+100000018,32, Male,Gold,Suburban, Machine-op-inspct, Never-married,30,2531.84,Home Goods,16/11/2023,1
+100000019,38, Male,Bronze,Rural, Sales,Married,93,6159.56,Clothing,30/3/2023,0
+100000020,43, Female,Platinum,, Exec-managerial, Divorced,20,8508.77,Clothing,14/5/2022,1
+100000021,40, Male,Platinum,Urban, Prof-specialty,Married,92,9187.13,Home Goods,13/3/2023,1
+100000022,54, Female,Bronze,Urban, Other-service, Separated,33,8813.07,Home Goods,20/5/2022,1
+100000023,35, Male,Platinum,Rural, Farming-fishing,Married,53,4686.61,Home Goods,11/3/2023,1
+100000024,43, Male,Bronze,, Transport-moving,Married,82,2820.6,Home Goods,14/7/2022,1
+100000025,59, Female,Platinum,Rural, Tech-support, Divorced,98,7408.92,Home Goods,14/6/2023,0
+100000026,56, Male,Silver,Rural, Tech-support,Married,66,7098.01,Clothing,4/11/2022,0
+100000027,19, Male,Silver,Rural, Craft-repair, Never-married,82,5056.33,Clothing,6/6/2022,1
+100000028,54, Male,Gold,,,Married,49,3364.21,Clothing,11/6/2023,0
+100000029,39, Male,Silver,Urban, Exec-managerial, Divorced,79,1170.37,Electronics,24/7/2022,0
+100000030,49, Male,Platinum,Rural, Craft-repair,Married,63,7826.93,Clothing,27/6/2023,1
+100000031,23, Male,Gold,Rural, Protective-serv, Never-married,41,4700.56,Clothing,28/5/2022,1
+100000032,20, Male,Platinum,Suburban, Sales, Never-married,79,3730.83,Clothing,24/6/2022,0
+100000033,45, Male,Silver,Rural, Exec-managerial, Divorced,80,1672.03,Home Goods,23/5/2022,1
+100000034,30, Male,Platinum,Urban, Adm-clerical,Married,93,2684,Home Goods,7/10/2023,1
+100000035,22, Male,Silver,Suburban, Other-service,Married,71,6556.31,Home Goods,12/10/2023,1
+100000036,48, Male,Silver,Suburban, Machine-op-inspct, Never-married,57,5648.86,Home Goods,14/2/2023,1
+100000037,21, Male,Bronze,Rural, Machine-op-inspct, Never-married,67,7818.62,Home Goods,20/5/2022,0
+100000038,19, Female,Silver,Suburban, Adm-clerical,Married,39,4719.54,Home Goods,28/6/2022,1
+100000039,31, Male,Bronze,Rural, Sales,Married,17,7972.32,Home Goods,22/1/2022,0
+100000040,48, Male,Platinum,, Prof-specialty,Married,64,7822.95,Electronics,12/11/2023,1
+100000041,31, Male,Bronze,Rural, Machine-op-inspct,Married,34,4745.52,Clothing,28/6/2023,1
+100000042,53, Male,Bronze,Rural, Prof-specialty,Married,73,4447.83,Electronics,6/8/2023,1
+100000043,24, Male,Platinum,Rural, Tech-support,Married,22,8489.87,Clothing,30/5/2022,0
+100000044,49, Female,Gold,Suburban, Adm-clerical, Separated,77,2849.89,Home Goods,19/2/2023,1
+100000045,25, Male,Bronze,Urban, Handlers-cleaners, Never-married,99,6174.64,Clothing,24/1/2023,1
+100000046,57, Male,Silver,Urban, Prof-specialty,Married,95,7524.85,Clothing,11/2/2022,0
+100000047,53, Male,Platinum,Urban, Machine-op-inspct,Married,81,9063.96,Home Goods,19/9/2022,1
+100000048,44, Female,Platinum,, Exec-managerial, Divorced,37,7360.49,Electronics,5/11/2023,0
+100000049,41, Male,Silver,Suburban, Craft-repair,Married,77,4499.37,Electronics,22/3/2023,1
+100000050,29, Male,Gold,Suburban, Prof-specialty, Never-married,4,3646.2,Clothing,17/10/2022,0
+100000051,25, Female,Silver,Suburban, Exec-managerial,Married,4,473.77,Home Goods,5/6/2022,0
+100000052,18, Female,Platinum,Rural, Other-service, Never-married,73,294.55,Clothing,2/9/2022,0
+100000053,47, Female,Bronze,Rural, Prof-specialty,Married,28,1452.79,Clothing,27/5/2023,0
+100000054,50, Male,Bronze,Rural, Exec-managerial, Divorced,73,8315.14,Clothing,1/9/2023,1
+100000055,47, Male,Gold,Suburban, Exec-managerial, Divorced,9,5564.5,Clothing,10/7/2022,1
+100000056,43, Male,Silver,Rural, Tech-support,Married,79,7504.34,Electronics,30/7/2023,1
+100000057,46, Male,Gold,Suburban, Machine-op-inspct,Married,12,4850.14,Home Goods,19/11/2022,1
+100000058,35, Male,Gold,Suburban, Other-service,Married,52,5211.27,Home Goods,13/2/2023,0
+100000059,41, Male,Gold,Urban, Adm-clerical,Married,89,7258.96,Home Goods,20/6/2022,1
+100000060,30, Male,Gold,Suburban, Machine-op-inspct,Married,25,6748.39,Electronics,11/3/2022,0
+100000061,30, Male,Bronze,Suburban, Sales,Married,46,3197.17,Electronics,1/4/2023,0
+100000062,32, Male,Platinum,Suburban,,Married,95,9353.86,Electronics,19/8/2022,1
+100000063,48, Male,Bronze,Suburban, Transport-moving,Married,63,6047.68,Clothing,3/8/2022,0
+100000064,42, Male,Silver,Urban, Prof-specialty,Married,28,3829.11,Electronics,2/7/2023,1
+100000065,29, Male,Silver,Suburban, Tech-support, Divorced,84,1297.15,Home Goods,6/4/2023,0
+100000066,36, Male,Silver,Suburban, Craft-repair,Married,92,8574.68,Clothing,18/7/2022,1
+100000067,28, Female,Platinum,Urban, Adm-clerical, Divorced,63,2482.25,Electronics,7/7/2023,1
+100000068,53, Female,Bronze,Urban, Adm-clerical,Married,69,2983.87,Electronics,15/8/2023,1
+100000069,49, Male,Platinum,Urban, Exec-managerial,Married,57,9979.87,Clothing,30/1/2023,0
+100000070,25, Male,Silver,Urban,, Never-married,9,7927.82,Electronics,16/5/2022,1
+100000071,19, Male,Silver,Rural, Prof-specialty, Never-married,2,1146.42,Electronics,25/11/2022,0
+100000072,31, Female,Silver,Rural, Sales, Separated,15,6649.46,Clothing,15/5/2023,0
+100000073,29, Male,Platinum,Suburban, Sales,Married,12,4856.47,Electronics,29/3/2023,0
+100000074,23, Male,Platinum,Rural, Machine-op-inspct, Never-married,100,9118.29,Clothing,28/1/2023,1
+100000075,79, Male,Bronze,, Prof-specialty,Married,14,9499.46,Electronics,5/6/2023,1
+100000076,27, Male,Bronze,, Other-service, Never-married,90,3965.08,Home Goods,9/2/2023,0
+100000077,40, Male,Silver,Rural, Adm-clerical,Married,8,9063.8,Clothing,27/11/2022,0
+100000078,67, Male,Platinum,Suburban,,Married,41,8005.23,Electronics,28/6/2023,1
+100000079,18, Female,Gold,Rural, Other-service, Never-married,30,8832.81,Electronics,28/8/2023,0
+100000080,31, Male,Gold,Suburban, Farming-fishing,Married,66,8261.84,Clothing,16/5/2023,1
+100000081,18, Male,Silver,Urban, Sales, Never-married,96,3759.07,Clothing,4/7/2022,1
+100000082,52, Male,Gold,Urban, Other-service,Married,100,3773.06,Clothing,17/9/2023,0
+100000083,46, Female,Gold,Suburban, Other-service,Married,57,9622.34,Home Goods,22/7/2023,1
+100000084,59, Male,Platinum,Rural, Sales,Married,18,179.8,Home Goods,28/12/2023,0
+100000085,44, Female,Gold,Suburban, Craft-repair, Divorced,26,9986.07,Clothing,30/5/2022,0
+100000086,53, Female,Bronze,Suburban, Sales, Divorced,81,4879.4,Clothing,28/2/2023,1
+100000087,49, Male,Silver,Suburban, Protective-serv,Married,52,3607.39,Electronics,20/2/2022,0
+100000088,33, Male,Bronze,Urban, Prof-specialty,Married,5,7842,Clothing,16/11/2022,1
+100000089,30, Male,Platinum,Urban, Sales, Never-married,89,9066.76,Clothing,16/5/2022,0
+100000090,43, Female,Silver,Rural, Prof-specialty, Never-married,90,7048.69,Home Goods,17/10/2023,1
+100000091,57, Male,Gold,Suburban, Prof-specialty,Married,61,2688.88,Clothing,25/11/2022,0
+100000092,37, Female,Gold,Rural, Craft-repair, Divorced,12,1352.4,Electronics,3/12/2022,1
+100000093,28, Female,Gold,Urban, Machine-op-inspct, Divorced,64,7668.86,Clothing,14/10/2022,0
+100000094,30, Female,Gold,Urban, Sales,Married,9,3777.81,Electronics,4/1/2023,1
+100000095,34, Male,Silver,Rural, Protective-serv,Married,30,2969.29,Clothing,6/10/2023,0
+100000096,29, Male,Platinum,Rural, Handlers-cleaners, Never-married,60,160.76,Home Goods,2/2/2022,1
+100000097,48, Male,Gold,Suburban, Prof-specialty,Married,7,1384.49,Home Goods,29/1/2022,0
+100000098,37, Male,Silver,Suburban, Sales,Married,31,9842.07,Electronics,25/4/2022,1
+100000099,48, Female,Silver,Rural, Exec-managerial, Divorced,75,3999.57,Home Goods,27/3/2023,0
+100000100,32, Male,Silver,, Other-service, Never-married,33,1787.02,Electronics,28/5/2023,1
+100000101,76, Male,Gold,, Exec-managerial,Married,91,4910.45,Home Goods,27/12/2022,1
+100000102,44, Male,Silver,Urban, Exec-managerial,Married,46,4573.93,Electronics,13/9/2023,0
+100000103,47, Female,Platinum,Rural, Prof-specialty, Never-married,42,8724.64,Electronics,13/3/2023,1
+100000104,20, Female,Gold,Rural, Tech-support, Never-married,87,6050.96,Clothing,5/8/2023,0
+100000105,29, Male,Gold,Urban, Craft-repair, Never-married,35,1910.92,Electronics,2/9/2023,1
+100000106,32, Male,Bronze,Suburban, Craft-repair,Married,55,648.92,Electronics,12/4/2023,0
+100000107,17, Female,Platinum,Rural,, Never-married,83,3505.42,Clothing,26/4/2023,1
+100000108,30, Male,Platinum,Suburban, Handlers-cleaners, Never-married,18,7022.38,Home Goods,24/7/2023,1
+100000109,31, Female,Silver,Suburban, Adm-clerical, Never-married,67,311.89,Electronics,30/5/2022,1
+100000110,42, Male,Silver,Suburban, Handlers-cleaners,Married,3,5305.44,Clothing,7/1/2022,1
+100000111,24, Male,Silver,Suburban, Sales, Never-married,9,2153.9,Electronics,6/11/2022,0
+100000112,38, Male,Bronze,Rural, Prof-specialty,Married,13,3064.41,Electronics,19/8/2022,1
+100000113,56, Male,Gold,Rural, Other-service,Married,78,321.75,Electronics,23/6/2023,1
+100000114,28, Female,Silver,Suburban, Sales,Married,77,6466.44,Home Goods,9/2/2023,1
+100000115,36, Female,Bronze,Suburban, Machine-op-inspct, Never-married,32,1110.03,Home Goods,22/9/2023,0
+100000116,53, Male,Gold,Suburban, Handlers-cleaners,Married,14,8561.63,Clothing,20/2/2022,0
+100000117,56, Male,Platinum,Rural, Sales,Married,8,7363.84,Electronics,10/7/2022,0
+100000118,49, Male,Bronze,Rural, Craft-repair,Married,45,9726.63,Clothing,7/7/2022,1
+100000119,55, Male,Bronze,Urban, Sales,Married,1,5782.96,Home Goods,8/12/2022,1
+100000120,22, Male,Platinum,Urban, Craft-repair, Never-married,58,8124.19,Electronics,2/9/2023,1
+100000121,21, Female,Silver,Urban, Other-service, Never-married,20,8510.21,Home Goods,18/7/2022,0
+100000122,40, Male,Silver,Urban, Exec-managerial,Married,18,9264.2,Clothing,23/10/2022,0
+100000123,30, Male,Silver,Rural, Exec-managerial, Never-married,79,3071.48,Home Goods,20/5/2022,0
+100000124,29, Male,Silver,Suburban, Prof-specialty,Married,24,3003.61,Home Goods,16/7/2023,1
+100000125,19, Male,Silver,Suburban, Other-service, Never-married,69,4397.22,Home Goods,19/6/2023,1
+100000126,47, Female,Silver,Rural, Exec-managerial,Married,11,5886.2,Clothing,7/10/2022,1
+100000127,20, Female,Platinum,Urban, Adm-clerical, Never-married,61,4213.17,Clothing,18/10/2022,0
+100000128,31, Male,Silver,Urban, Adm-clerical,Married,90,334.32,Clothing,16/9/2022,1
+100000129,35, Male,Platinum,Suburban,,Married,78,5194.01,Clothing,9/11/2023,1
+100000130,39, Male,Platinum,Urban, Craft-repair, Divorced,70,1856.79,Electronics,2/6/2022,1
+100000131,28, Female,Silver,Suburban, Sales, Never-married,40,8630.74,Clothing,14/1/2023,1
+100000132,24, Female,Gold,Suburban, Other-service, Never-married,54,2352.81,Electronics,15/10/2023,0
+100000133,38, Male,Platinum,Suburban, Craft-repair,Married,5,9236.11,Home Goods,8/1/2023,0
+100000134,37, Male,Platinum,Rural, Sales,Married,31,2751.93,Clothing,15/7/2023,1
+100000135,46, Female,Platinum,Suburban, Tech-support, Divorced,19,855.95,Clothing,17/7/2022,1
+100000136,38, Male,Gold,Rural, Prof-specialty,Married,82,3170.84,Home Goods,20/4/2023,1
+100000137,43, Male,Gold,Suburban, Craft-repair,Married,31,9591.37,Electronics,8/4/2023,1
+100000138,27, Female,Bronze,Suburban, Adm-clerical,Married,6,9962.87,Clothing,27/3/2022,0
+100000139,20, Male,Gold,Rural, Sales, Never-married,82,8443.67,Home Goods,27/12/2023,0
+100000140,49, Male,Bronze,Rural, Craft-repair,Married,100,599.99,Clothing,21/3/2022,0
+100000141,61, Male,Bronze,Urban, Craft-repair,Married,63,1685.03,Home Goods,22/10/2022,0
+100000142,27, Female,Platinum,Urban, Sales, Never-married,75,4239.42,Clothing,1/8/2022,0
+100000143,19, Male,Gold,Urban, Other-service, Never-married,44,4085.05,Electronics,24/4/2023,1
+100000144,45, Female,Silver,Urban, Prof-specialty, Never-married,52,4496.16,Electronics,28/3/2022,0
+100000145,70, Male,Bronze,Suburban, Tech-support, Never-married,55,208.25,Home Goods,1/3/2022,1
+100000146,31, Female,Silver,Suburban, Transport-moving, Never-married,73,7953.23,Electronics,21/6/2023,1
+100000147,22, Male,Gold,Suburban, Other-service,Married,22,8997.06,Clothing,13/4/2023,0
+100000148,36, Female,Platinum,Rural, Other-service, Widowed,73,4561.92,Home Goods,25/7/2022,1
+100000149,64, Male,Silver,Rural, Craft-repair,Married,15,5855.27,Electronics,17/3/2023,1
+100000150,43, Female,Bronze,Urban,, Divorced,12,3371.93,Home Goods,27/7/2023,1
+100000151,47, Female,Bronze,Rural, Adm-clerical, Divorced,95,6135.22,Home Goods,1/4/2022,1
+100000152,34, Female,Bronze,Suburban, Adm-clerical, Never-married,25,9009.9,Clothing,2/2/2023,0
+100000153,33, Female,Bronze,Rural, Exec-managerial, Never-married,96,5394.46,Electronics,30/10/2022,0
+100000154,21, Male,Gold,Rural, Craft-repair, Never-married,94,3385.56,Electronics,19/6/2022,1
+100000155,52, Male,Gold,Urban,, Divorced,61,3394.08,Electronics,20/6/2022,0
+100000156,48, Male,Silver,Rural, Craft-repair,Married,33,7192.42,Electronics,10/1/2022,0
+100000157,23, Male,Platinum,, Handlers-cleaners, Never-married,74,3404.34,Clothing,18/5/2023,1
+100000158,71, Male,Gold,Rural, Sales, Separated,66,8793.72,Home Goods,23/7/2022,0
+100000159,29, Male,Silver,, Craft-repair, Divorced,62,6421.9,Home Goods,2/5/2022,1
+100000160,42, Male,Gold,Rural, Other-service, Separated,79,9404.04,Clothing,5/7/2022,0
+100000161,68, Female,Bronze,Suburban,, Divorced,39,5749.64,Clothing,8/11/2023,1
+100000162,25, Female,Platinum,Rural, Other-service, Never-married,49,2194.2,Clothing,25/6/2023,0
+100000163,44, Female,Platinum,Urban, Exec-managerial, Divorced,85,4964.57,Clothing,26/10/2023,1
+100000164,28, Female,Platinum,Rural, Exec-managerial, Never-married,59,2112.2,Clothing,30/9/2023,0
+100000165,45, Male,Gold,Rural, Sales,Married,79,3763.79,Home Goods,10/8/2022,1
+100000166,36, Female,Bronze,Suburban, Other-service, Divorced,45,5574.7,Electronics,4/5/2022,0
+100000167,39, Male,Platinum,Rural, Exec-managerial, Never-married,93,769.72,Clothing,5/9/2022,0
+100000168,46, Male,Silver,Urban, Protective-serv, Widowed,70,4054.75,Electronics,3/6/2022,0
+100000169,18, Male,Silver,Suburban, Handlers-cleaners, Never-married,10,1717.84,Home Goods,15/1/2022,1
+100000170,66, Female,Platinum,Urban, Prof-specialty, Widowed,30,1763.95,Home Goods,26/4/2023,1
+100000171,27, Male,Silver,Suburban, Other-service, Never-married,99,1353.76,Clothing,31/5/2022,0
+100000172,28, Male,Gold,Suburban, Protective-serv,Married,37,3930.31,Electronics,23/5/2022,0
+100000173,51, Male,Silver,Suburban, Sales,Married,26,5639.54,Clothing,6/11/2023,0
+100000174,27, Male,Gold,Rural, Craft-repair, Never-married,68,7003.94,Electronics,10/6/2022,1
+100000175,28, Male,Bronze,Rural, Prof-specialty,Married,30,4004.81,Electronics,11/3/2022,0
+100000176,27, Female,Gold,Urban, Sales,Married,20,7263.15,Clothing,6/8/2023,1
+100000177,21, Male,Platinum,Suburban, Craft-repair, Never-married,87,350.97,Home Goods,6/10/2023,0
+100000178,34, Male,Silver,Rural, Handlers-cleaners, Never-married,38,3513.66,Clothing,15/2/2022,0
+100000179,18, Male,Platinum,Rural, Other-service, Never-married,90,2593.19,Home Goods,26/7/2023,1
+100000180,33, Male,Silver,Suburban, Prof-specialty,Married,22,4785.9,Clothing,24/5/2022,0
+100000181,44, Male,Silver,Urban, Exec-managerial,Married,87,6322.59,Clothing,16/4/2023,0
+100000182,43, Female,Silver,Rural, Adm-clerical, Divorced,20,8843.29,Electronics,17/5/2023,0
+100000183,30, Male,Bronze,Rural, Craft-repair, Never-married,76,9146.75,Electronics,23/5/2022,0
+100000184,40, Male,Platinum,Suburban, Machine-op-inspct,Married,19,6756.73,Electronics,23/5/2023,0
+100000185,37, Male,Platinum,Suburban, Adm-clerical,Married,68,8972.92,Home Goods,15/6/2022,0
+100000186,34, Male,Bronze,Rural, Adm-clerical,Married,18,1112.14,Home Goods,4/12/2022,0
+100000187,41, Female,Platinum,Suburban, Exec-managerial, Divorced,33,7093.43,Clothing,26/6/2023,0
+100000188,53, Female,Gold,Urban,, Divorced,17,3283.77,Home Goods,23/10/2022,0
+100000189,31, Female,Gold,Rural, Prof-specialty,Married,5,3631.2,Clothing,18/10/2022,0
+100000190,58, Male,Silver,, Prof-specialty,Married,91,1245.73,Clothing,29/3/2023,0
+100000191,38, Female,Bronze,Rural, Machine-op-inspct, Divorced,18,8952.77,Clothing,7/1/2023,1
+100000192,24, Male,Gold,Urban, Machine-op-inspct,Married,83,6683.77,Electronics,27/1/2022,1
+100000193,41, Male,Gold,Urban, Craft-repair,Married,66,4410.08,Clothing,12/2/2022,1
+100000194,47, Male,Silver,Rural, Tech-support,Married,83,4418.04,Clothing,11/5/2022,1
+100000195,41, Male,Bronze,Urban, Tech-support,Married,84,8440.6,Electronics,21/3/2023,1
+100000196,23, Male,Platinum,Urban, Transport-moving,Married,11,3907.38,Home Goods,9/1/2023,0
+100000197,36, Male,Silver,Urban, Craft-repair, Divorced,70,9789.59,Home Goods,23/1/2023,1
+100000198,40, Female,Platinum,Suburban, Exec-managerial, Never-married,44,1385.71,Home Goods,21/6/2023,0
+100000199,35, Male,Platinum,Suburban, Prof-specialty,Married,10,6967.74,Clothing,7/8/2023,0
+100000200,24, Male,Bronze,Rural, Sales, Never-married,72,6856.52,Electronics,10/7/2023,1
+100000201,26, Female,Bronze,Rural, Prof-specialty, Never-married,42,7132.91,Home Goods,12/6/2022,0
+100000202,19, Male,Silver,Suburban,, Never-married,25,1829.14,Electronics,22/6/2023,1
+100000203,51, Male,Platinum,Urban, Exec-managerial,Married,5,2114.91,Home Goods,23/1/2023,1
+100000204,42, Female,Silver,Rural, Prof-specialty, Never-married,100,8462.84,Electronics,25/10/2022,0
+100000205,37, Female,Platinum,Rural, Adm-clerical, Divorced,71,8281.74,Electronics,20/8/2023,1
+100000206,18, Female,Gold,, Sales, Never-married,72,6084.35,Clothing,11/4/2022,0
+100000207,36, Male,Bronze,Urban, Other-service,Married,50,5135.55,Clothing,19/11/2023,1
+100000208,35, Male,Silver,Rural, Craft-repair, Divorced,22,2311.1,Clothing,28/1/2022,1
+100000209,58, Female,Platinum,Urban, Sales,Married,7,1096.69,Home Goods,6/6/2022,0
+100000210,17, Female,Silver,Suburban, Sales, Never-married,28,8474.32,Home Goods,20/2/2023,0
+100000211,44, Male,Silver,Rural, Transport-moving,Married,60,6670.15,Home Goods,16/1/2022,1
+100000212,37, Male,Bronze,, Craft-repair,Married,96,7111.93,Home Goods,6/3/2023,1
+100000213,35, Female,Bronze,Urban, Sales, Never-married,91,6258.46,Clothing,18/12/2023,0
+100000214,60, Male,Bronze,Suburban, Craft-repair,Married,100,8773.62,Home Goods,4/8/2023,1
+100000215,54, Male,Gold,Rural, Machine-op-inspct,Married,54,5136.6,Electronics,14/7/2023,0
+100000216,37, Male,Bronze,Rural, Exec-managerial, Never-married,72,7379.1,Home Goods,14/1/2022,0
+100000217,50, Female,Gold,, Sales, Divorced,49,6867.97,Electronics,16/11/2022,1
+100000218,38, Male,Silver,, Sales,Married,24,4973.71,Home Goods,20/2/2022,0
+100000219,45, Male,Platinum,Rural, Prof-specialty,Married,38,8260.8,Home Goods,29/4/2023,1
+100000220,25, Male,Gold,Rural, Craft-repair, Never-married,44,9381.53,Electronics,17/8/2023,1
+100000221,31, Male,Bronze,Suburban, Handlers-cleaners,Married,86,6382.3,Clothing,30/5/2023,0
+100000222,64, Male,Platinum,Suburban,, Divorced,17,5548.37,Home Goods,29/1/2022,1
+100000223,90, Male,Platinum,Suburban, Other-service, Never-married,38,2444.93,Electronics,12/9/2022,0
+100000224,54, Male,Silver,Urban, Adm-clerical,Married,99,9491.86,Clothing,14/2/2023,0
+100000225,53, Female,Bronze,Urban, Machine-op-inspct, Never-married,12,3932.93,Clothing,5/1/2024,1
+100000226,18, Female,Bronze,Suburban, Sales, Never-married,16,9320.34,Electronics,4/5/2023,1
+100000227,60, Female,Bronze,Rural,, Divorced,46,9318.16,Home Goods,3/6/2023,0
+100000228,66, Male,Platinum,Rural, Farming-fishing,Married,41,5774.93,Clothing,21/7/2023,0
+100000229,75, Female,Silver,Suburban, Adm-clerical, Widowed,72,7329.82,Electronics,15/6/2022,1
+100000230,65, Female,Silver,Suburban, Adm-clerical, Divorced,90,1801.52,Electronics,4/8/2022,1
+100000231,35, Male,Gold,Urban, Transport-moving, Separated,53,6840.84,Electronics,1/12/2022,0
+100000232,41, Female,Platinum,Rural, Sales, Divorced,11,8650.98,Electronics,10/11/2023,1
+100000233,25, Male,Bronze,Urban, Adm-clerical, Never-married,33,4558.26,Clothing,22/6/2023,1
+100000234,33, Female,Platinum,Rural, Craft-repair, Divorced,46,7353.89,Electronics,9/10/2022,1
+100000235,28, Male,Gold,Urban, Prof-specialty, Never-married,14,6959.18,Home Goods,8/9/2023,1
+100000236,59, Male,Gold,Rural, Other-service,Married,2,7677.31,Electronics,8/5/2022,0
+100000237,40, Female,Silver,Urban, Adm-clerical, Never-married,8,3638.74,Electronics,19/8/2023,1
+100000238,41, Male,Platinum,Rural, Exec-managerial,Married,62,3065.35,Clothing,2/1/2023,0
+100000239,38, Male,Platinum,Suburban, Exec-managerial,Married,18,8343.55,Clothing,1/9/2022,1
+100000240,23, Male,Silver,, Transport-moving, Never-married,16,4204.98,Home Goods,22/11/2022,1
+100000241,40, Male,Bronze,Suburban, Prof-specialty,Married,6,9777.4,Clothing,21/10/2022,1
+100000242,41, Female,Gold,Urban, Other-service,Married,85,2934.3,Clothing,5/11/2023,1
+100000243,24, Male,Platinum,Urban, Protective-serv,Married,81,7570.61,Clothing,15/11/2023,1
+100000244,20, Male,Bronze,Rural,, Never-married,42,5751.43,Electronics,13/5/2022,1
+100000245,38, Male,Silver,Suburban, Craft-repair, Divorced,45,6241.07,Clothing,22/6/2023,0
+100000246,56, Male,Silver,, Adm-clerical,Married,41,6243.64,Home Goods,10/11/2023,0
+100000247,58, Male,Silver,Urban, Adm-clerical,Married,87,8186.63,Clothing,22/2/2022,1
+100000248,32, Female,Bronze,Rural, Other-service, Never-married,87,8037.96,Home Goods,19/6/2023,1
+100000249,40, Male,Bronze,Urban, Tech-support,Married,92,2247.62,Home Goods,2/10/2023,0
+100000250,45, Male,Silver,Suburban, Adm-clerical,Married,59,7873.4,Clothing,1/3/2022,1
+100000251,41, Female,Platinum,Rural, Prof-specialty,Married,97,1533.49,Clothing,6/12/2022,1
+100000252,42, Female,Bronze,Rural, Adm-clerical,Married,74,8326.44,Home Goods,15/11/2022,0
+100000253,59, Female,Platinum,, Other-service, Widowed,45,8254.55,Clothing,9/2/2022,0
+100000254,19, Male,Bronze,Rural, Adm-clerical, Never-married,84,5484.9,Electronics,28/11/2023,0
+100000255,58, Male,Platinum,Urban, Transport-moving, Never-married,3,5631.75,Home Goods,23/2/2023,1
+100000256,42, Male,Bronze,Rural, Farming-fishing,Married,83,3304.47,Clothing,18/12/2022,0
+100000257,20, Female,Platinum,Suburban, Other-service, Never-married,100,5347.49,Electronics,1/3/2022,0
+100000258,32, Female,Gold,Urban, Other-service, Separated,29,1085.37,Clothing,1/8/2023,0
+100000259,45, Female,Gold,Urban, Exec-managerial, Widowed,72,9943.68,Electronics,5/9/2022,0
+100000260,50, Male,Gold,Suburban, Craft-repair, Divorced,99,9885.37,Electronics,11/7/2022,0
+100000261,36, Female,Platinum,Urban, Prof-specialty, Divorced,91,3103.15,Home Goods,2/8/2023,1
+100000262,45, Male,Platinum,Rural, Sales,Married,27,5479.63,Clothing,27/11/2022,0
+100000263,17, Male,Silver,Urban, Other-service, Never-married,80,5728.12,Home Goods,2/11/2022,0
+100000264,59, Male,Silver,Urban, Sales,Married,18,8794.35,Electronics,5/9/2023,0
+100000265,26, Male,Platinum,Rural, Craft-repair,Married,37,8645.49,Home Goods,22/11/2023,0
+100000266,37, Male,Platinum,Rural, Exec-managerial,Married,6,1790.39,Clothing,16/11/2022,1
+100000267,19, Male,Platinum,,, Never-married,88,4708.32,Clothing,26/8/2022,0
+100000268,64, Male,Gold,Rural, Exec-managerial,Married,49,1682.16,Home Goods,9/11/2023,1
+100000269,33, Female,Platinum,Suburban, Prof-specialty, Never-married,62,9562.63,Clothing,21/7/2023,0
+100000270,33, Female,Silver,Rural, Craft-repair,Married,21,994.25,Clothing,27/4/2023,0
+100000271,61, Male,Gold,Urban, Exec-managerial,Married,51,7253.27,Home Goods,5/5/2023,0
+100000272,17, Male,Gold,Urban, Other-service, Never-married,64,851.3,Electronics,4/7/2023,1
+100000273,50, Male,Platinum,Rural, Farming-fishing,Married,31,2500.41,Home Goods,23/6/2022,1
+100000274,27, Male,Platinum,, Prof-specialty, Never-married,98,4378.86,Electronics,12/10/2022,0
+100000275,30, Female,Gold,Urban, Prof-specialty, Divorced,35,3135.68,Electronics,26/5/2022,0
+100000276,43, Male,Gold,Rural, Handlers-cleaners,Married,65,8077.69,Home Goods,30/5/2022,0
+100000277,44, Male,Gold,Urban, Craft-repair,Married,5,1335.44,Home Goods,18/7/2023,0
+100000278,35, Female,Bronze,Urban, Exec-managerial, Never-married,24,3158.1,Home Goods,30/8/2022,1
+100000279,25, Female,Platinum,Suburban, Tech-support, Never-married,20,2779.75,Home Goods,9/1/2023,1
+100000280,24, Female,Silver,, Machine-op-inspct,Married,20,5779.43,Clothing,27/5/2022,1
+100000281,22, Female,Bronze,Rural, Prof-specialty, Never-married,8,830.3,Electronics,24/8/2022,0
+100000282,42, Male,Silver,Urban, Craft-repair,Married,57,313.22,Electronics,1/12/2023,1
+100000283,34, Female,Silver,Suburban, Sales, Divorced,15,5236.82,Home Goods,20/8/2022,0
+100000284,60, Female,Gold,Rural, Prof-specialty, Divorced,28,8214.47,Electronics,15/11/2022,1
+100000285,21, Male,Gold,Rural, Handlers-cleaners, Never-married,82,8863.47,Clothing,10/4/2023,1
+100000286,57, Male,Platinum,Suburban, Sales,Married,66,5912.9,Electronics,9/8/2022,1
+100000287,41, Male,Silver,Urban, Prof-specialty,Married,3,8312.3,Electronics,9/10/2023,0
+100000288,50, Male,Platinum,Suburban, Other-service, Divorced,5,5875.57,Electronics,28/11/2023,1
+100000289,25, Female,Platinum,Urban, Exec-managerial, Never-married,30,431.69,Home Goods,12/7/2022,0
+100000290,50, Male,Silver,, Craft-repair,Married,9,7307.64,Home Goods,24/8/2022,0
+100000291,36, Male,Platinum,Suburban, Prof-specialty,Married,88,2451.69,Clothing,19/12/2022,1
+100000292,31, Female,Gold,Urban, Prof-specialty, Divorced,29,5899.05,Home Goods,18/2/2023,1
+100000293,29, Male,Silver,Suburban, Protective-serv, Never-married,65,2918.45,Clothing,29/4/2023,1
+100000294,21, Male,Gold,Rural, Sales, Never-married,89,5274.73,Home Goods,13/3/2022,0
+100000295,27, Female,Bronze,, Tech-support, Never-married,23,3533.26,Home Goods,9/4/2022,0
+100000296,65, Male,Bronze,Rural, Transport-moving,Married,12,8120.84,Electronics,15/11/2023,0
+100000297,37, Female,Gold,Suburban, Sales, Divorced,95,3199.88,Electronics,6/9/2022,1
+100000298,39, Female,Silver,Urban,,Married,81,6455.14,Home Goods,20/11/2023,0
+100000299,24, Male,Platinum,Rural, Craft-repair, Never-married,86,9610.7,Home Goods,5/11/2023,1
+100000300,38, Male,Bronze,Rural, Sales, Divorced,29,7682.39,Home Goods,16/11/2023,1
+100000301,48, Male,Platinum,Rural, Adm-clerical,Married,62,1840.19,Clothing,9/4/2023,1
+100000302,21, Female,Platinum,Rural, Other-service, Never-married,30,8098.62,Clothing,3/1/2023,1
+100000303,31, Male,Gold,Rural, Transport-moving,Married,10,2729.12,Home Goods,8/7/2023,1
+100000304,55, Male,Platinum,Urban, Sales,Married,39,6449.06,Home Goods,18/9/2023,0
+100000305,24, Female,Bronze,Rural, Adm-clerical,Married,72,5427.8,Clothing,28/10/2022,1
+100000306,43, Female,Gold,Rural, Adm-clerical, Divorced,75,6248.57,Clothing,17/11/2023,1
+100000307,26, Male,Bronze,Urban, Tech-support, Never-married,18,2067.16,Home Goods,5/11/2023,1
+100000308,46, Female,Bronze,Suburban, Prof-specialty, Never-married,72,7175.97,Electronics,19/5/2023,0
+100000309,35, Male,Bronze,Rural, Adm-clerical,Married,48,9899.59,Clothing,20/5/2023,1
+100000310,41, Male,Bronze,Urban, Farming-fishing,Married,92,2549.79,Electronics,5/11/2022,1
+100000311,26, Male,Platinum,Urban, Sales, Never-married,89,9485.54,Electronics,3/9/2023,1
+100000312,34, Male,Bronze,Urban, Exec-managerial,Married,90,8224.11,Electronics,23/7/2022,0
+100000313,19, Female,Silver,Urban,, Never-married,7,9569.62,Electronics,17/8/2022,1
+100000314,36, Female,Silver,Suburban, Prof-specialty, Divorced,57,4161.38,Clothing,24/10/2023,0
+100000315,22, Male,Platinum,, Sales, Never-married,64,9241.95,Home Goods,22/10/2022,1
+100000316,24, Male,Bronze,Rural, Machine-op-inspct, Never-married,46,4169.91,Electronics,9/10/2022,1
+100000317,77, Male,Gold,Urban, Sales,Married,2,8643.29,Clothing,30/7/2023,0
+100000318,22, Female,Silver,Suburban, Machine-op-inspct,Married,99,7307.65,Home Goods,15/2/2022,1
+100000319,29, Female,Gold,Urban, Tech-support, Never-married,5,8368.03,Home Goods,21/8/2022,1
+100000320,62, Female,Bronze,Suburban, Other-service, Widowed,7,2146.98,Electronics,8/8/2023,1
+100000321,39, Male,Platinum,Rural, Exec-managerial,Married,86,2646.82,Electronics,30/8/2022,0
+100000322,43, Male,Bronze,Suburban, Craft-repair,Married,87,442.49,Clothing,16/9/2023,0
+100000323,35, Male,Bronze,Urban, Transport-moving, Divorced,72,8741.7,Home Goods,12/12/2022,0
+100000324,29, Female,Bronze,Rural, Exec-managerial, Never-married,54,7547.93,Electronics,18/5/2022,1
+100000325,76, Male,Gold,Urban, Craft-repair,Married,38,9138.86,Home Goods,17/7/2023,1
+100000326,63, Male,Gold,Rural, Farming-fishing,Married,79,7810.88,Home Goods,28/3/2023,1
+100000327,23, Female,Gold,Urban,, Never-married,98,3082.92,Clothing,30/6/2023,0
+100000328,43, Female,Platinum,Rural, Prof-specialty,Married,14,7666.4,Home Goods,23/5/2023,0
+100000329,58, Male,Bronze,Urban, Handlers-cleaners,Married,1,5049.95,Clothing,4/3/2023,0
+100000330,66, Male,Bronze,Rural, Transport-moving, Never-married,7,8170.13,Clothing,25/12/2022,1
+100000331,41, Male,Platinum,Urban, Craft-repair, Never-married,1,1725.92,Electronics,11/7/2022,1
+100000332,26, Male,Bronze,, Adm-clerical, Never-married,7,9210.76,Clothing,7/9/2022,1
+100000333,47, Male,Bronze,, Other-service, Never-married,83,2027.77,Clothing,14/10/2022,1
+100000334,55, Male,Bronze,Urban, Adm-clerical,Married,57,1073.31,Home Goods,5/12/2023,1
+100000335,53, Male,Platinum,Urban, Transport-moving,Married,40,5930.7,Home Goods,15/2/2023,0
+100000336,17, Male,Silver,Urban, Other-service, Never-married,74,4036.9,Electronics,29/12/2022,1
+100000337,30, Male,Gold,Urban, Craft-repair, Never-married,70,4780.19,Electronics,23/12/2022,1
+100000338,49, Male,Bronze,Rural, Prof-specialty, Never-married,9,6298.53,Clothing,4/3/2023,0
+100000339,19, Male,Platinum,Urban, Sales, Never-married,75,6538.04,Clothing,13/1/2023,1
+100000340,45, Male,Silver,Urban, Other-service,Married,55,5484.22,Electronics,17/8/2022,1
+100000341,26, Male,Gold,Suburban, Sales, Never-married,26,2329.16,Electronics,17/3/2022,0
+100000342,38, Male,Bronze,Urban, Craft-repair,Married,72,491.58,Clothing,14/8/2023,1
+100000343,36, Male,Platinum,Urban, Protective-serv,Married,91,2881.77,Electronics,12/4/2022,0
+100000344,33, Male,Bronze,Suburban, Farming-fishing, Never-married,34,9309.85,Electronics,31/3/2022,0
+100000345,22, Female,Gold,Urban, Protective-serv, Never-married,93,9938.55,Home Goods,20/2/2023,0
+100000346,43, Male,Bronze,Rural, Sales, Never-married,90,6821.59,Home Goods,27/1/2022,1
+100000347,67, Male,Bronze,Suburban,,Married,54,5289.16,Clothing,14/12/2023,0
+100000348,30, Female,Platinum,Rural,, Divorced,14,5216.82,Clothing,17/6/2022,0
+100000349,56, Male,Gold,Rural, Other-service,Married,56,4284.53,Electronics,9/4/2022,0
+100000350,31, Male,Silver,Rural, Prof-specialty, Never-married,100,412.1,Clothing,17/6/2023,0
+100000351,33, Male,Silver,Urban, Exec-managerial,Married,10,7722.34,Home Goods,10/9/2023,0
+100000352,26, Male,Platinum,Suburban, Other-service,Married,90,2175.79,Clothing,15/3/2022,0
+100000353,33, Male,Platinum,, Exec-managerial,Married,73,1074.38,Electronics,17/7/2022,1
+100000354,46, Male,Silver,Suburban, Transport-moving,Married,94,2145.09,Electronics,23/7/2023,0
+100000355,59, Male,Gold,Urban,,Married,74,2402.14,Electronics,15/12/2022,1
+100000356,38, Male,Gold,Rural, Adm-clerical,Married,55,5983.66,Electronics,4/1/2024,1
+100000357,65, Male,Platinum,, Other-service, Widowed,3,3259.94,Home Goods,17/4/2022,1
+100000358,40, Male,Silver,Rural, Tech-support,Married,94,7690.04,Electronics,9/1/2022,0
+100000359,42, Female,Bronze,Suburban, Adm-clerical,Married,73,7187.71,Electronics,15/5/2022,0
+100000360,26, Male,Silver,Rural, Craft-repair,Married,68,8045.54,Electronics,27/10/2023,1
+100000361,36, Female,Bronze,Rural, Other-service,Married,83,6847.3,Clothing,3/6/2022,0
+100000362,62, Male,Platinum,Rural, Prof-specialty,Married,44,4300.23,Home Goods,24/3/2023,1
+100000363,43, Male,Platinum,Suburban, Transport-moving,Married,90,6100.39,Home Goods,25/3/2022,1
+100000364,43, Male,Gold,Rural, Exec-managerial, Divorced,34,9726.37,Home Goods,16/12/2023,0
+100000365,22, Male,Gold,Suburban, Sales,Married,74,6838.5,Clothing,7/2/2023,1
+100000366,28, Male,Platinum,, Craft-repair,Married,62,2475.91,Clothing,31/10/2023,1
+100000367,56, Male,Platinum,Rural, Sales,Married,60,881.01,Electronics,27/3/2023,0
+100000368,22, Female,Platinum,Rural, Sales, Never-married,78,1465.12,Clothing,20/7/2022,1
+100000369,57, Female,Gold,Rural, Exec-managerial, Divorced,88,6556.37,Electronics,5/6/2023,0
+100000370,39, Female,Silver,Rural, Sales, Divorced,16,7419.26,Electronics,11/4/2023,0
+100000371,26, Female,Silver,Suburban, Adm-clerical, Never-married,94,8584.41,Clothing,29/1/2022,0
+100000372,17, Male,Bronze,, Other-service, Never-married,92,2400.7,Home Goods,24/8/2022,0
+100000373,40, Male,Platinum,Rural, Machine-op-inspct,Married,25,9161.01,Electronics,25/10/2022,1
+100000374,45, Male,Bronze,Suburban, Machine-op-inspct,Married,44,4110.12,Home Goods,25/4/2023,0
+100000375,44, Male,Gold,Rural, Craft-repair, Never-married,89,312.77,Home Goods,17/11/2023,0
+100000376,20, Female,Bronze,Suburban, Adm-clerical, Never-married,74,5441.11,Clothing,9/3/2023,1
+100000377,33, Female,Gold,Urban, Craft-repair,Married,91,8678.02,Electronics,4/8/2023,1
+100000378,23, Male,Silver,Urban, Sales, Never-married,62,2950.54,Electronics,15/12/2023,0
+100000379,46, Male,Silver,Suburban, Exec-managerial, Divorced,53,8146.35,Clothing,29/5/2023,0
+100000380,38, Male,Gold,Urban, Sales,Married,1,7477.33,Clothing,5/4/2023,0
+100000381,54, Male,Gold,Urban, Transport-moving, Divorced,35,8745.98,Clothing,25/9/2023,1
+100000382,46, Female,Gold,Suburban, Craft-repair, Divorced,90,6039.83,Home Goods,18/10/2023,0
+100000383,25, Male,Platinum,, Craft-repair,Married,20,9047.87,Clothing,23/1/2022,1
+100000384,46, Female,Silver,Rural, Sales, Divorced,43,7316.45,Clothing,19/6/2023,1
+100000385,36, Female,Gold,Rural, Transport-moving,Married,91,8998.37,Clothing,20/11/2023,1
+100000386,23, Female,Silver,Suburban, Other-service, Never-married,12,2151.2,Home Goods,23/9/2022,1
+100000387,29, Male,Platinum,Rural, Machine-op-inspct, Separated,36,8721.14,Home Goods,26/6/2022,0
+100000388,44, Female,Silver,Urban, Adm-clerical,Married,98,7168.34,Clothing,15/11/2022,0
+100000389,19, Female,Platinum,Rural, Adm-clerical, Never-married,19,9488.27,Electronics,29/12/2023,0
+100000390,19, Female,Bronze,Suburban, Other-service, Never-married,15,2679.51,Electronics,10/12/2022,0
+100000391,35, Female,Bronze,Suburban, Other-service,Married,55,4915.35,Home Goods,6/1/2022,0
+100000392,27, Male,Bronze,Urban, Craft-repair, Never-married,75,2121.51,Home Goods,11/9/2022,1
+100000393,46, Male,Silver,, Craft-repair, Separated,74,234.99,Clothing,13/2/2022,0
+100000394,34, Male,Silver,Suburban, Exec-managerial,Married,90,9566.19,Electronics,31/3/2023,1
+100000395,34, Female,Platinum,Urban, Other-service, Never-married,10,6948.05,Electronics,12/3/2022,0
+100000396,44, Male,Platinum,Rural, Tech-support,Married,53,4820.95,Home Goods,5/1/2023,1
+100000397,45, Female,Platinum,Urban, Handlers-cleaners, Divorced,43,199.61,Electronics,17/3/2022,0
+100000398,20, Female,Bronze,Suburban,, Never-married,44,5153.06,Home Goods,15/7/2022,0
+100000399,25, Male,Silver,Suburban, Exec-managerial,Married,52,1530.29,Electronics,24/2/2022,0
+100000400,52, Male,Gold,Rural, Exec-managerial,Married,22,1170.74,Clothing,4/7/2023,1
+100000401,20, Male,Gold,Urban, Handlers-cleaners, Never-married,2,8578.99,Electronics,6/5/2023,0
+100000402,28, Female,Silver,, Other-service, Never-married,84,7381.62,Clothing,4/3/2023,1
+100000403,50, Male,Platinum,Suburban, Protective-serv,Married,74,6911.73,Clothing,12/12/2023,0
+100000404,34, Female,Bronze,Rural, Tech-support, Divorced,4,2860.25,Clothing,12/6/2022,1
+100000405,28, Male,Bronze,Suburban, Handlers-cleaners,Married,45,4514.76,Clothing,16/6/2022,0
+100000406,41, Male,Silver,Urban, Exec-managerial,Married,19,124.54,Clothing,14/9/2022,1
+100000407,28, Male,Platinum,Rural, Adm-clerical,Married,12,3582.14,Clothing,16/5/2023,1
+100000408,46, Male,Bronze,Urban, Craft-repair,Married,98,330.66,Clothing,11/8/2023,0
+100000409,28, Female,Bronze,Suburban,,Married,10,6232.63,Clothing,14/11/2022,1
+100000410,32, Male,Bronze,Suburban, Exec-managerial,Married,85,9013.95,Home Goods,25/9/2023,1
+100000411,41, Female,Gold,Rural, Other-service, Divorced,1,9486.39,Clothing,25/6/2023,1
+100000412,24, Female,Platinum,Suburban, Handlers-cleaners, Never-married,11,6616.91,Clothing,9/1/2023,0
+100000413,33, Female,Gold,Urban, Exec-managerial, Divorced,31,863.59,Home Goods,21/4/2023,0
+100000414,46, Male,Platinum,Rural, Exec-managerial,Married,43,4411.28,Electronics,8/4/2022,0
+100000415,31, Male,Platinum,Rural, Machine-op-inspct,Married,65,2329.09,Electronics,26/6/2022,1
+100000416,35, Male,Silver,Urban, Craft-repair, Divorced,16,6763.26,Home Goods,17/8/2022,1
+100000417,52, Male,Gold,Urban, Machine-op-inspct,Married,61,3412.11,Clothing,12/4/2022,0
+100000418,30, Female,Silver,Suburban, Other-service, Never-married,1,2921.44,Electronics,9/5/2023,1
+100000419,34, Male,Gold,Suburban, Machine-op-inspct, Separated,81,3349.97,Home Goods,17/3/2023,1
+100000420,34, Female,Silver,Urban, Transport-moving, Divorced,87,111.96,Clothing,9/6/2023,1
+100000421,20, Male,Bronze,Suburban, Sales,Married,98,2900.12,Home Goods,15/11/2023,0
+100000422,17, Male,Gold,Suburban, Handlers-cleaners, Never-married,28,7023.08,Electronics,9/7/2023,1
+100000423,32, Female,Bronze,Suburban, Exec-managerial,Married,58,8673.95,Home Goods,21/8/2022,0
+100000424,29, Male,Platinum,Rural, Farming-fishing, Divorced,84,7258.72,Electronics,11/12/2022,0
+100000425,33, Female,Gold,Rural, Craft-repair, Never-married,94,3657.05,Clothing,27/5/2022,1
+100000426,25, Male,Gold,Rural, Transport-moving,Married,90,7686.29,Home Goods,30/7/2022,0
+100000427,36, Male,Silver,Suburban, Prof-specialty, Never-married,98,9745.92,Clothing,27/5/2023,1
+100000428,23, Male,Silver,Urban, Handlers-cleaners, Never-married,37,2673.15,Home Goods,23/2/2023,1
+100000429,63, Male,Bronze,Rural, Exec-managerial,Married,99,3631.5,Home Goods,27/12/2023,0
+100000430,47, Male,Silver,Rural, Prof-specialty,Married,30,1793.62,Clothing,20/3/2023,0
+100000431,80, Male,Bronze,Rural,, Widowed,49,8461.39,Electronics,28/2/2023,0
+100000432,17, Male,Platinum,Rural,, Never-married,13,7687.19,Clothing,22/7/2022,1
+100000433,40, Female,Bronze,, Prof-specialty,Married,50,6081.03,Home Goods,12/2/2022,1
+100000434,30, Female,Platinum,Suburban, Other-service,Married,70,2158.29,Clothing,6/6/2023,0
+100000435,27, Male,Bronze,Suburban, Craft-repair, Never-married,11,2106.48,Home Goods,14/2/2022,1
+100000436,33, Male,Platinum,Suburban, Prof-specialty,Married,98,1127.96,Clothing,15/6/2022,1
+100000437,34, Male,Bronze,Urban, Farming-fishing, Never-married,76,3738.99,Electronics,19/3/2023,0
+100000438,34, Female,Silver,Urban, Protective-serv, Never-married,23,8401.71,Clothing,6/10/2022,1
+100000439,23, Male,Bronze,Rural, Adm-clerical,Married,43,9549.98,Electronics,29/11/2022,0
+100000440,42, Female,Bronze,Suburban, Adm-clerical,Married,46,7605.94,Clothing,13/4/2023,0
+100000441,29, Male,Bronze,, Prof-specialty, Never-married,16,4658,Clothing,22/3/2022,0
+100000442,45, Female,Bronze,Rural, Adm-clerical, Divorced,20,3005.27,Clothing,23/5/2022,1
+100000443,24, Male,Platinum,Urban, Armed-Forces, Never-married,4,1492.66,Clothing,20/8/2023,1
+100000444,44, Male,Silver,Suburban, Prof-specialty,Married,63,4525.71,Home Goods,15/7/2022,0
+100000445,27, Male,Gold,Rural, Craft-repair, Never-married,30,7603.96,Electronics,24/1/2023,0
+100000446,20, Male,Platinum,, Sales, Never-married,99,1333.66,Electronics,19/12/2023,0
+100000447,44, Female,Bronze,Suburban, Exec-managerial, Widowed,66,3604.07,Electronics,15/11/2022,0
+100000448,51, Male,Gold,Rural, Craft-repair,Married,5,864.89,Home Goods,14/1/2023,1
+100000449,20, Male,Bronze,Urban, Machine-op-inspct,Married,14,4193.78,Electronics,23/7/2023,0
+100000450,17, Female,Platinum,Rural,, Never-married,30,4691.21,Clothing,10/11/2022,0
+100000451,19, Female,Gold,Suburban, Machine-op-inspct, Never-married,55,524.11,Electronics,21/11/2022,0
+100000452,45, Male,Platinum,Urban, Craft-repair,Married,9,850.88,Electronics,16/6/2022,1
+100000453,60, Male,Silver,Rural, Craft-repair,Married,80,6628.31,Clothing,8/5/2023,1
+100000454,42, Male,Silver,Rural, Exec-managerial,Married,18,1222.59,Electronics,21/11/2023,1
+100000455,44, Female,Silver,, Sales,Married,81,9221.13,Clothing,5/5/2022,0
+100000456,40, Male,Platinum,Urban, Machine-op-inspct,Married,76,4301.24,Electronics,22/10/2022,1
+100000457,30, Female,Platinum,Rural, Exec-managerial,Married,32,793.12,Electronics,24/10/2023,1
+100000458,38, Male,Platinum,Suburban, Transport-moving,Married,14,6911.6,Electronics,4/1/2023,1
+100000459,23, Male,Gold,Suburban, Transport-moving,Married,6,2751.24,Clothing,12/11/2023,1
+100000460,32, Male,Bronze,Urban,,Married,39,5617.45,Electronics,15/10/2023,0
+100000461,44, Male,Silver,Suburban, Farming-fishing, Never-married,59,7700.64,Home Goods,31/12/2023,1
+100000462,54, Male,Gold,Rural, Transport-moving,Married,23,6096.76,Home Goods,15/8/2022,0
+100000463,32, Male,Gold,, Prof-specialty,Married,23,3473.33,Electronics,18/4/2022,1
+100000464,50, Male,Bronze,Suburban, Craft-repair,Married,9,175.53,Clothing,11/2/2023,1
+100000465,24, Female,Bronze,Rural, Tech-support, Never-married,74,8622.02,Electronics,18/11/2023,0
+100000466,37, Female,Platinum,, Adm-clerical,Married,65,5829.97,Clothing,3/11/2022,1
+100000467,52, Male,Bronze,Rural, Transport-moving, Divorced,43,739.28,Home Goods,8/7/2023,1
+100000468,38, Male,Bronze,Urban, Transport-moving,Married,78,6370.32,Electronics,22/3/2022,1
+100000469,49, Male,Platinum,Urban, Exec-managerial,Married,65,5330.89,Clothing,17/6/2022,1
+100000470,30, Female,Bronze,Urban, Tech-support,Married,3,3069.08,Electronics,4/5/2022,1
+100000471,60, Male,Silver,Suburban, Prof-specialty, Never-married,47,5834.91,Clothing,22/5/2023,0
+100000472,22, Male,Platinum,Rural,, Never-married,9,885.41,Clothing,29/5/2023,1
+100000473,35, Male,Platinum,Rural, Craft-repair, Never-married,30,2770.49,Electronics,30/7/2023,1
+100000474,30, Male,Gold,Rural, Transport-moving, Never-married,15,9413.78,Electronics,4/6/2023,1
+100000475,67, Female,Gold,Urban, Other-service, Divorced,47,216.85,Electronics,15/7/2022,1
+100000476,46, Female,Silver,Rural, Craft-repair, Never-married,41,1300.06,Electronics,21/1/2023,1
+100000477,17, Male,Platinum,, Other-service, Never-married,35,9989.37,Clothing,12/10/2022,0
+100000478,22, Male,Platinum,Suburban, Handlers-cleaners, Never-married,8,6895.76,Home Goods,11/12/2023,0
+100000479,27, Male,Platinum,Urban, Other-service, Never-married,3,1376.27,Clothing,7/2/2023,0
+100000480,23, Female,Platinum,Rural, Other-service, Never-married,17,4680.78,Clothing,12/9/2023,1
+100000481,33, Male,Gold,Urban, Craft-repair,Married,1,8362.55,Home Goods,31/8/2023,1
+100000482,43, Male,Silver,Suburban, Craft-repair,Married,89,2043.81,Electronics,9/12/2022,0
+100000483,28, Male,Bronze,Suburban, Prof-specialty, Never-married,50,9506.28,Electronics,4/11/2023,1
+100000484,41, Female,Platinum,Rural, Craft-repair,Married,68,8380.97,Clothing,4/5/2022,1
+100000485,52, Male,Bronze,,, Never-married,45,4680.47,Electronics,11/2/2022,0
+100000486,25, Female,Silver,, Adm-clerical,Married,20,1543.9,Home Goods,14/6/2023,1
+100000487,63, Male,Silver,Suburban,,Married,12,3833.19,Clothing,30/4/2022,1
+100000488,59, Male,Gold,Rural, Transport-moving,Married,27,2126.05,Home Goods,14/9/2022,1
+100000489,45, Female,Bronze,Suburban, Prof-specialty, Divorced,98,6811.59,Home Goods,27/4/2023,1
+100000490,38, Male,Gold,Urban, Sales,Married,59,2551.31,Home Goods,9/5/2022,0
+100000491,40, Female,Bronze,Suburban, Other-service, Never-married,48,4743.67,Electronics,10/4/2022,0
+100000492,46, Male,Bronze,Suburban, Adm-clerical, Divorced,13,179.23,Electronics,26/8/2023,1
+100000493,35, Female,Bronze,Rural, Exec-managerial, Never-married,14,5407.94,Home Goods,24/12/2022,0
+100000494,34, Female,Platinum,Suburban, Prof-specialty, Divorced,6,4642.94,Home Goods,3/9/2022,1
+100000495,33, Male,Platinum,, Craft-repair, Never-married,33,9573.46,Electronics,20/10/2023,0
+100000496,41, Female,Bronze,Urban, Adm-clerical, Divorced,73,9511.28,Clothing,10/9/2023,1
+100000497,20, Male,Bronze,Rural, Machine-op-inspct, Never-married,54,2333.39,Clothing,17/12/2023,1
+100000498,23, Male,Platinum,Urban, Other-service, Never-married,8,2125.37,Clothing,21/3/2023,0
+100000499,26, Female,Silver,Suburban, Prof-specialty, Never-married,22,1381.4,Home Goods,18/1/2023,0
+100000500,72, Male,Platinum,Urban,,Married,44,9378.74,Home Goods,6/1/2022,0
+100000501,23, Male,Platinum,Urban, Farming-fishing, Never-married,19,3645.48,Electronics,22/7/2022,1
+100000502,62, Male,Silver,Suburban, Transport-moving,Married,19,4407.89,Clothing,2/3/2023,1
+100000503,52, Male,Gold,Urban, Adm-clerical,Married,97,1467.32,Electronics,4/10/2022,1
+100000504,58, Female,Silver,Rural, Other-service, Divorced,24,9591.03,Clothing,28/6/2023,0
+100000505,25, Female,Platinum,Rural, Sales, Never-married,82,8574.2,Clothing,24/6/2022,1
+100000506,24, Male,Platinum,, Exec-managerial, Never-married,59,9574.71,Home Goods,4/1/2023,0
+100000507,19, Male,Silver,, Protective-serv, Never-married,16,7102.03,Clothing,25/2/2023,1
+100000508,43, Male,Bronze,Rural, Exec-managerial,Married,15,5970.66,Home Goods,23/11/2023,0
+100000509,47, Female,Silver,Suburban, Adm-clerical, Separated,86,3436.03,Electronics,12/8/2022,0
+100000510,39, Female,Bronze,Rural, Other-service, Divorced,69,5925.78,Clothing,18/6/2022,0
+100000511,49, Male,Silver,Urban, Handlers-cleaners,Married,89,7624.02,Clothing,29/4/2022,1
+100000512,53, Female,Silver,Urban,, Widowed,23,8889.63,Home Goods,28/12/2022,1
+100000513,32, Male,Silver,Rural, Craft-repair, Never-married,82,756.78,Clothing,17/10/2022,0
+100000514,34, Male,Bronze,Rural, Prof-specialty,Married,52,9822.71,Home Goods,28/2/2022,1
+100000515,28, Male,Silver,Suburban, Craft-repair, Divorced,64,7519.43,Electronics,18/12/2022,0
+100000516,57, Female,Gold,,, Widowed,65,1866.34,Home Goods,22/9/2023,1
+100000517,25, Female,Silver,Urban, Adm-clerical, Never-married,53,9217.84,Home Goods,1/4/2022,0
+100000518,20, Male,Bronze,Rural,, Never-married,88,3429.87,Electronics,26/12/2023,0
+100000519,21, Female,Gold,Rural,, Never-married,97,8616.51,Home Goods,4/5/2022,0
+100000520,34, Male,Platinum,Urban, Prof-specialty,Married,79,1390.7,Clothing,14/6/2022,0
+100000521,38, Male,Gold,Suburban, Exec-managerial,Married,18,414.44,Clothing,4/5/2022,0
+100000522,50, Male,Silver,Urban, Exec-managerial,Married,60,7962.21,Home Goods,1/9/2022,0
+100000523,24, Male,Bronze,Suburban, Handlers-cleaners, Divorced,25,1408.13,Clothing,26/10/2022,0
+100000524,37, Male,Bronze,Suburban, Tech-support,Married,41,3741.69,Clothing,18/9/2023,0
+100000525,44, Male,Silver,Urban, Machine-op-inspct, Divorced,40,2593.67,Home Goods,19/7/2023,1
+100000526,28, Female,Silver,Urban, Sales,Married,55,9097.75,Electronics,31/10/2022,1
+100000527,42, Male,Gold,Urban, Exec-managerial,Married,63,9695.58,Clothing,6/9/2023,0
+100000528,74, Female,Platinum,Urban, Adm-clerical, Divorced,57,7258.81,Home Goods,10/7/2022,0
+100000529,38, Male,Bronze,Rural, Craft-repair,Married,21,8064.15,Home Goods,3/11/2023,1
+100000530,44, Male,Silver,, Prof-specialty,Married,42,155.9,Clothing,29/5/2022,0
+100000531,44, Female,Silver,Urban, Machine-op-inspct, Divorced,95,8878.9,Home Goods,7/6/2023,0
+100000532,26, Male,Silver,Suburban, Machine-op-inspct, Never-married,5,1030.79,Home Goods,11/1/2023,1
+100000533,36, Male,Platinum,Suburban, Other-service,Married,40,7106.24,Electronics,29/5/2023,1
+100000534,41, Female,Bronze,Urban, Exec-managerial,Married,72,4498.57,Home Goods,18/2/2022,1
+100000535,67, Male,Platinum,Rural, Prof-specialty,Married,18,489.23,Electronics,12/6/2022,0
+100000536,39, Male,Gold,, Tech-support,Married,86,7095.14,Home Goods,31/10/2022,0
+100000537,57, Female,Silver,Rural, Priv-house-serv, Widowed,14,6850.97,Electronics,20/12/2022,0
+100000538,29, Male,Gold,Urban, Craft-repair, Separated,73,6537.99,Clothing,10/8/2022,1
+100000539,31, Female,Silver,Suburban, Farming-fishing, Never-married,35,5129.38,Electronics,2/5/2023,0
+100000540,34, Female,Gold,Rural,, Never-married,63,8880.4,Electronics,11/3/2023,1
+100000541,44, Male,Platinum,Urban, Transport-moving,Married,35,3835.27,Electronics,8/2/2023,0
+100000542,29, Male,Gold,Urban, Prof-specialty, Never-married,99,978.23,Home Goods,23/2/2022,0
+100000543,30, Female,Bronze,Suburban, Handlers-cleaners, Never-married,7,5673.79,Home Goods,21/11/2022,1
+100000544,27, Male,Silver,, Transport-moving, Never-married,17,7024.14,Home Goods,9/2/2023,0
+100000545,27, Male,Silver,Rural, Sales,Married,18,1443.97,Clothing,23/2/2022,0
+100000546,32, Female,Gold,Rural, Handlers-cleaners, Never-married,40,7171.88,Home Goods,12/5/2022,0
+100000547,58, Female,Gold,Urban, Other-service,Married,65,3338.77,Clothing,16/9/2022,1
+100000548,35, Male,Silver,Urban, Protective-serv,Married,29,547.98,Clothing,24/8/2023,0
+100000549,21, Male,Bronze,Rural, Handlers-cleaners, Never-married,13,816.36,Home Goods,11/10/2023,1
+100000550,28, Male,Silver,Urban, Craft-repair, Never-married,16,2036.39,Clothing,19/1/2023,0
+100000551,46, Male,Gold,Rural, Exec-managerial, Divorced,38,5985.07,Clothing,12/6/2023,1
+100000552,36, Female,Silver,, Other-service, Separated,94,1010.39,Home Goods,5/9/2023,1
+100000553,72, Female,Platinum,Suburban, Adm-clerical, Widowed,71,1788.89,Home Goods,7/7/2022,1
+100000554,35, Female,Platinum,, Machine-op-inspct,Married,35,110.47,Electronics,14/8/2022,0
+100000555,33, Female,Platinum,Rural, Craft-repair, Divorced,65,3056.41,Home Goods,15/8/2022,0
+100000556,69, Female,Gold,Rural, Machine-op-inspct, Never-married,12,4063.16,Electronics,2/9/2022,1
+100000557,35, Male,Silver,Rural, Machine-op-inspct,Married,16,8139.4,Clothing,20/1/2022,0
+100000558,31, Female,Gold,, Adm-clerical, Separated,47,4334.75,Electronics,21/10/2023,1
+100000559,34, Female,Silver,, Tech-support,Married,76,582.73,Electronics,7/12/2023,1
+100000560,30, Male,Silver,Rural, Other-service,Married,35,2203.22,Electronics,20/11/2023,1
+100000561,28, Male,Gold,Rural, Transport-moving, Never-married,33,2997.69,Electronics,10/3/2022,1
+100000562,54, Male,Gold,Urban, Sales,Married,47,6705.33,Clothing,16/5/2023,0
+100000563,47, Male,Gold,Suburban, Prof-specialty,Married,9,7659.95,Home Goods,1/3/2023,0
+100000564,24, Female,Bronze,Rural, Handlers-cleaners, Never-married,57,6079.94,Home Goods,1/3/2023,0
+100000565,52, Male,Silver,Urban, Prof-specialty,Married,44,3247.22,Home Goods,18/8/2022,0
+100000566,20, Male,Gold,Rural, Handlers-cleaners, Never-married,18,5465.29,Clothing,13/5/2022,0
+100000567,43, Male,Silver,Urban, Exec-managerial,Married,57,8232.97,Electronics,27/4/2022,0
+100000568,45, Female,Bronze,Urban, Other-service, Separated,52,1396.6,Clothing,10/7/2023,1
+100000569,29, Male,Bronze,Suburban, Craft-repair, Separated,89,794.13,Home Goods,28/2/2022,1
+100000570,47, Male,Platinum,, Exec-managerial, Divorced,95,7314.45,Electronics,1/4/2023,1
+100000571,24, Male,Silver,Suburban, Craft-repair, Never-married,75,1176.95,Electronics,12/8/2023,0
+100000572,51, Male,Silver,Rural, Prof-specialty,Married,48,271.33,Home Goods,13/1/2022,1
+100000573,17, Male,Silver,Suburban, Sales, Never-married,30,673,Electronics,19/10/2023,0
+100000574,37, Male,Silver,, Craft-repair,Married,82,3745.15,Home Goods,6/12/2023,0
+100000575,27, Female,Platinum,Rural, Prof-specialty, Never-married,24,1518.66,Clothing,9/5/2022,0
+100000576,29, Male,Silver,Urban, Exec-managerial,Married,62,6539.6,Home Goods,5/12/2022,0
+100000577,18, Male,Gold,Rural,, Never-married,10,5513.51,Clothing,12/10/2022,1
+100000578,36, Female,Gold,Urban, Sales, Divorced,92,2137.78,Home Goods,4/1/2024,0
+100000579,58, Female,Silver,Suburban, Prof-specialty, Never-married,98,1926.29,Home Goods,7/8/2022,1
+100000580,26, Male,Silver,Suburban, Craft-repair,Married,67,8097.47,Clothing,14/9/2022,1
+100000581,65, Male,Gold,Rural,,Married,38,3650.11,Clothing,6/3/2023,0
+100000582,57, Male,Platinum,Suburban, Sales,Married,94,8533.55,Electronics,14/5/2023,0
+100000583,59, Male,Gold,Suburban, Craft-repair,Married,76,5618.62,Home Goods,16/5/2023,0
+100000584,27, Male,Platinum,Urban, Machine-op-inspct,Married,28,7139.03,Home Goods,8/12/2022,0
+100000585,31, Male,Gold,Rural, Tech-support, Never-married,46,6187.73,Home Goods,13/11/2023,0
+100000586,21, Female,Platinum,Rural, Sales, Never-married,51,5560.25,Home Goods,31/7/2022,0
+100000587,29, Male,Silver,Urban, Adm-clerical, Never-married,91,9665.54,Clothing,29/6/2022,1
+100000588,18, Male,Gold,Rural, Other-service, Never-married,9,1044.49,Electronics,24/12/2022,1
+100000589,52, Male,Platinum,Urban, Craft-repair,Married,44,8220.34,Electronics,18/2/2022,1
+100000590,57, Male,Bronze,Rural, Prof-specialty, Divorced,52,5962.5,Clothing,4/10/2023,0
+100000591,42, Male,Bronze,Rural,,Married,31,2364.69,Electronics,26/9/2023,0
+100000592,55, Female,Bronze,Suburban,,Married,43,1832.76,Home Goods,16/12/2023,1
+100000593,60, Male,Gold,Rural, Transport-moving, Never-married,16,3608.05,Clothing,2/2/2023,0
+100000594,31, Male,Gold,Urban, Prof-specialty,Married,79,6685.98,Electronics,28/5/2022,0
+100000595,23, Female,Bronze,Suburban, Adm-clerical, Never-married,28,5823.53,Electronics,8/3/2023,0
+100000596,27, Male,Bronze,Urban, Sales, Never-married,77,8259.35,Clothing,17/7/2023,0
+100000597,23, Female,Platinum,Suburban,, Never-married,81,2357.41,Home Goods,8/5/2022,1
+100000598,42, Male,Gold,Urban, Prof-specialty,Married,61,5099.31,Electronics,27/10/2022,1
+100000599,25, Male,Silver,Suburban, Tech-support, Never-married,16,7206.29,Clothing,2/6/2023,0
+100000600,49, Female,Silver,Urban, Prof-specialty, Never-married,72,2744.35,Clothing,27/2/2022,1
+100000601,32, Male,Gold,Urban, Tech-support, Never-married,64,1651.44,Electronics,4/3/2022,0
+100000602,19, Male,Gold,Suburban, Adm-clerical, Never-married,36,6273.89,Home Goods,20/12/2022,0
+100000603,60, Female,Gold,, Other-service, Divorced,56,379.17,Electronics,24/4/2022,1
+100000604,42, Male,Silver,Rural, Other-service,Married,8,5561.97,Electronics,8/2/2022,0
+100000605,35, Male,Gold,Urban, Farming-fishing, Never-married,82,5056.9,Electronics,13/12/2023,1
+100000606,48, Female,Platinum,Suburban, Adm-clerical, Never-married,42,358.08,Home Goods,24/5/2022,0
+100000607,51, Male,Silver,, Craft-repair,Married,95,530.06,Home Goods,8/8/2023,0
+100000608,29, Male,Bronze,Rural, Craft-repair, Never-married,16,4576.41,Clothing,12/11/2023,1
+100000609,36, Male,Gold,Rural, Exec-managerial, Separated,87,2626.22,Electronics,6/2/2023,0
+100000610,17, Female,Platinum,Rural, Other-service, Never-married,66,3111.14,Home Goods,19/8/2022,1
+100000611,52, Female,Platinum,Urban, Prof-specialty, Divorced,26,7045.83,Clothing,14/10/2022,1
+100000612,24, Male,Silver,, Craft-repair, Never-married,10,278.29,Clothing,30/4/2023,1
+100000613,24, Male,Gold,Suburban, Handlers-cleaners,Married,29,8452.09,Clothing,29/5/2022,1
+100000614,26, Male,Silver,Rural, Prof-specialty, Never-married,86,8207.65,Electronics,9/12/2023,1
+100000615,27, Female,Bronze,Suburban, Other-service, Never-married,25,9080.35,Electronics,14/1/2023,1
+100000616,39, Male,Bronze,Rural, Handlers-cleaners, Never-married,27,3893.23,Electronics,13/4/2023,1
+100000617,30, Male,Bronze,Rural, Transport-moving,Married,21,4971.43,Home Goods,15/4/2023,0
+100000618,50, Male,Bronze,Suburban, Exec-managerial,Married,89,7245.83,Electronics,22/4/2023,1
+100000619,52, Male,Gold,Urban, Sales,Married,83,3359.32,Electronics,26/12/2022,1
+100000620,46, Male,Gold,Rural, Prof-specialty,Married,97,2315.52,Electronics,24/3/2023,0
+100000621,23, Female,Platinum,Rural, Sales, Never-married,2,5352.82,Electronics,27/6/2022,0
+100000622,45, Female,Bronze,Rural, Other-service, Widowed,30,2238.05,Clothing,20/3/2022,1
+100000623,65, Female,Platinum,Rural, Priv-house-serv, Widowed,75,1859.11,Electronics,13/9/2022,1
+100000624,29, Male,Bronze,Rural, Transport-moving,Married,13,6923.76,Home Goods,3/11/2023,1
+100000625,47, Male,Platinum,, Handlers-cleaners,Married,46,4634.07,Electronics,4/7/2023,0
+100000626,30, Male,Gold,Rural, Farming-fishing, Never-married,2,332.79,Electronics,13/7/2022,1
+100000627,34, Male,Silver,Rural, Sales,Married,89,5891.34,Electronics,18/3/2022,0
+100000628,38, Male,Gold,Rural, Sales,Married,5,8554.32,Clothing,15/10/2023,1
+100000629,33, Male,Bronze,Rural, Exec-managerial,Married,76,9938.95,Home Goods,10/9/2022,0
+100000630,49, Male,Bronze,Urban, Sales,Married,36,9783.08,Home Goods,26/6/2022,1
+100000631,47, Female,Gold,Urban, Other-service, Never-married,40,1710.18,Electronics,20/7/2023,0
+100000632,49, Female,Gold,Rural, Other-service, Separated,53,2542.23,Clothing,26/3/2023,0
+100000633,43, Male,Silver,Rural, Craft-repair,Married,20,8297.17,Electronics,5/3/2023,1
+100000634,30, Female,Silver,Suburban, Adm-clerical,Married,80,9403.11,Electronics,15/12/2022,0
+100000635,58, Male,Silver,, Craft-repair,Married,83,7091.64,Clothing,30/11/2022,0
+100000636,19, Female,Gold,Rural, Other-service, Never-married,27,343.9,Home Goods,28/3/2022,0
+100000637,21, Male,Gold,Urban, Handlers-cleaners, Never-married,25,6364.29,Clothing,12/5/2022,0
+100000638,33, Male,Silver,, Exec-managerial,Married,86,8103.78,Electronics,13/11/2022,1
+100000639,47, Male,Silver,Rural, Transport-moving,Married,11,3039.91,Electronics,27/11/2023,0
+100000640,52, Male,Gold,Suburban, Prof-specialty,Married,2,1071.41,Home Goods,22/4/2023,1
+100000641,26, Male,Gold,Rural, Craft-repair, Divorced,13,528.49,Home Goods,8/6/2022,0
+100000642,60, Male,Bronze,Rural, Craft-repair,Married,76,8943.5,Home Goods,5/3/2023,1
+100000643,21, Male,Bronze,Urban, Handlers-cleaners, Never-married,83,8511.07,Home Goods,3/10/2022,0
+100000644,36, Male,Bronze,Urban, Sales,Married,42,8704.79,Clothing,16/3/2022,1
+100000645,31, Male,Silver,Rural, Craft-repair,Married,30,6995.04,Clothing,11/8/2023,1
+100000646,50, Male,Silver,, Prof-specialty, Separated,25,1060.14,Clothing,15/3/2022,0
+100000647,31, Female,Gold,Urban, Adm-clerical, Divorced,31,9677.26,Home Goods,24/11/2023,1
+100000648,71, Male,Platinum,, Craft-repair,Married,13,4967.92,Clothing,18/2/2022,0
+100000649,58, Male,Platinum,Urban,,Married,15,1733.42,Clothing,7/3/2022,1
+100000650,30, Male,Bronze,, Tech-support,Married,36,1560,Clothing,16/1/2023,0
+100000651,20, Male,Gold,Rural, Other-service, Never-married,13,4211.98,Home Goods,24/9/2023,0
+100000652,24, Male,Platinum,, Exec-managerial, Never-married,53,6647.24,Electronics,11/2/2022,0
+100000653,35, Male,Platinum,Urban, Prof-specialty,Married,41,7489.18,Home Goods,21/10/2023,0
+100000654,38, Female,Gold,Suburban, Exec-managerial, Separated,58,4597.18,Electronics,1/12/2023,1
+100000655,27, Female,Bronze,Suburban, Machine-op-inspct, Never-married,46,7460.48,Electronics,31/8/2022,0
+100000656,29, Female,Bronze,Suburban, Adm-clerical, Never-married,66,5134.41,Clothing,12/2/2023,0
+100000657,70, Female,Silver,Urban,, Widowed,98,3008.88,Electronics,18/3/2023,1
+100000658,34, Male,Gold,Rural, Craft-repair,Married,9,8997.4,Electronics,16/2/2023,1
+100000659,44, Male,Bronze,, Craft-repair,Married,44,7867.83,Clothing,12/5/2023,1
+100000660,43, Male,Platinum,Rural, Machine-op-inspct,Married,23,9996.35,Electronics,30/1/2023,1
+100000661,44, Male,Silver,Rural, Handlers-cleaners,Married,76,4095.37,Electronics,20/11/2023,0
+100000662,35, Male,Silver,, Sales, Never-married,91,910.3,Clothing,26/4/2022,0
+100000663,27, Male,Platinum,Suburban, Prof-specialty, Never-married,74,739.38,Home Goods,8/2/2022,1
+100000664,43, Male,Bronze,Urban, Prof-specialty, Never-married,60,9761.34,Electronics,10/9/2023,0
+100000665,20, Female,Gold,, Sales, Never-married,71,5894.08,Electronics,22/11/2022,1
+100000666,42, Female,Silver,Urban, Prof-specialty, Divorced,41,2489.15,Clothing,28/2/2022,1
+100000667,27, Male,Silver,Suburban, Transport-moving,Married,43,9187.18,Electronics,6/6/2023,1
+100000668,42, Male,Platinum,Rural, Craft-repair,Married,41,6275.53,Electronics,27/3/2023,0
+100000669,20, Female,Silver,Urban,,Married,53,827.12,Electronics,2/3/2022,0
+100000670,24, Male,Silver,Suburban, Machine-op-inspct, Never-married,1,9655.96,Electronics,1/3/2023,0
+100000671,48, Male,Silver,Suburban, Exec-managerial, Divorced,52,4066.48,Electronics,19/9/2023,0
+100000672,17, Female,Gold,Urban,, Never-married,90,8068.07,Electronics,7/4/2023,1
+100000673,17, Male,Platinum,, Farming-fishing, Never-married,35,8694.41,Clothing,3/9/2022,0
+100000674,33, Male,Platinum,Suburban, Exec-managerial,Married,18,3557.05,Clothing,9/3/2022,1
+100000675,50, Male,Bronze,Suburban, Sales,Married,69,306.83,Home Goods,20/5/2022,1
+100000676,22, Female,Platinum,Urban, Sales, Never-married,90,6877.2,Home Goods,19/4/2022,1
+100000677,17, Male,Platinum,Rural, Other-service, Never-married,77,4131.3,Clothing,19/2/2023,1
+100000678,32, Male,Platinum,Rural, Adm-clerical,Married,25,3199.38,Home Goods,26/9/2023,1
+100000679,31, Male,Platinum,Rural, Craft-repair, Never-married,5,5522.44,Electronics,14/11/2022,0
+100000680,58, Male,Silver,Suburban, Exec-managerial, Widowed,96,8099.49,Clothing,4/6/2022,1
+100000681,29, Male,Bronze,Suburban, Protective-serv, Never-married,47,1559.52,Home Goods,31/1/2022,0
+100000682,37, Male,Gold,Urban, Craft-repair,Married,3,605.29,Electronics,10/8/2023,1
+100000683,34, Male,Gold,Rural, Craft-repair,Married,60,4905.17,Electronics,3/9/2022,0
+100000684,23, Male,Silver,Suburban, Exec-managerial, Separated,5,8021.96,Home Goods,22/6/2023,0
+100000685,18, Female,Bronze,Suburban, Adm-clerical, Never-married,93,1776.45,Home Goods,16/1/2022,1
+100000686,34, Female,Bronze,Rural, Exec-managerial, Divorced,43,7329.16,Home Goods,11/7/2023,0
+100000687,66, Male,Bronze,Rural,, Never-married,82,4081.95,Home Goods,10/9/2022,1
+100000688,45, Female,Bronze,Urban, Prof-specialty,Married,34,4058.53,Electronics,3/4/2022,1
+100000689,41, Male,Gold,Urban, Exec-managerial, Never-married,96,8902.77,Electronics,4/1/2024,1
+100000690,26, Male,Silver,Rural, Other-service, Never-married,85,6176.92,Home Goods,29/5/2023,1
+100000691,54, Male,Bronze,Urban, Farming-fishing,Married,94,810.85,Home Goods,12/2/2023,1
+100000692,24, Female,Gold,Urban, Machine-op-inspct, Never-married,36,8897.73,Home Goods,5/8/2022,1
+100000693,42, Male,Bronze,, Prof-specialty,Married,81,9845.67,Home Goods,15/5/2022,0
+100000694,20, Male,Platinum,Rural, Prof-specialty, Never-married,96,7107.07,Electronics,2/1/2023,0
+100000695,23, Female,Platinum,Suburban, Tech-support, Never-married,83,2259.26,Home Goods,2/2/2022,0
+100000696,25, Male,Bronze,Suburban,, Never-married,4,2749.06,Home Goods,27/7/2023,0
+100000697,35, Male,Gold,Suburban, Prof-specialty, Never-married,87,5722.4,Home Goods,17/9/2022,0
+100000698,31, Male,Silver,Rural, Tech-support,Married,66,6307.44,Electronics,17/12/2023,0
+100000699,30, Female,Gold,Suburban, Prof-specialty, Never-married,52,9955.97,Electronics,31/12/2023,0
+100000700,19, Female,Bronze,Rural, Sales, Never-married,73,1551.71,Electronics,10/6/2022,0
+100000701,36, Male,Silver,Rural, Prof-specialty, Never-married,46,5146.46,Electronics,25/9/2022,0
+100000702,31, Female,Gold,Urban, Sales, Widowed,78,5160.86,Home Goods,30/5/2023,1
+100000703,21, Male,Bronze,, Handlers-cleaners, Never-married,60,3034.11,Clothing,16/3/2022,1
+100000704,31, Male,Platinum,Suburban, Craft-repair,Married,23,6527.51,Home Goods,6/1/2024,1
+100000705,46, Female,Silver,Suburban, Prof-specialty, Divorced,93,2161.05,Home Goods,2/8/2022,1
+100000706,44, Female,Silver,Urban, Exec-managerial, Divorced,45,3603.95,Clothing,15/3/2023,1
+100000707,40, Male,Platinum,Suburban, Other-service,Married,98,6847.09,Clothing,17/6/2022,0
+100000708,45, Male,Bronze,Rural, Sales, Never-married,68,5145.3,Electronics,5/6/2023,1
+100000709,60, Male,Gold,Suburban, Craft-repair,Married,3,320.78,Clothing,22/2/2022,1
+100000710,18, Male,Gold,Suburban, Other-service, Never-married,84,2906.58,Clothing,7/10/2022,1
+100000711,28, Male,Silver,, Prof-specialty,Married,83,7523.29,Home Goods,16/2/2023,0
+100000712,36, Female,Bronze,, Adm-clerical, Divorced,47,6939.54,Home Goods,22/9/2022,1
+100000713,36, Male,Platinum,, Prof-specialty, Separated,56,1732.65,Electronics,19/3/2023,1
+100000714,40, Male,Platinum,Urban, Tech-support,Married,79,2861.22,Clothing,13/7/2022,1
+100000715,36, Female,Bronze,Suburban, Adm-clerical, Divorced,67,9477.08,Electronics,25/4/2022,1
+100000716,31, Female,Silver,Suburban, Other-service, Separated,47,8854.62,Home Goods,17/12/2023,1
+100000717,33, Male,Silver,Rural, Machine-op-inspct,Married,2,4799.38,Clothing,22/2/2023,0
+100000718,19, Female,Gold,Rural, Tech-support, Never-married,87,8083.44,Electronics,21/1/2022,1
+100000719,22, Female,Bronze,Suburban, Sales, Never-married,32,7140.44,Home Goods,27/1/2023,1
+100000720,34, Male,Bronze,Urban, Exec-managerial,Married,59,3081.33,Electronics,13/11/2022,1
+100000721,33, Male,Bronze,Rural, Other-service, Never-married,54,4668.44,Electronics,29/7/2023,0
+100000722,41, Male,Bronze,Rural, Craft-repair,Married,61,5232.66,Clothing,23/5/2023,0
+100000723,29, Male,Gold,Urban, Prof-specialty, Never-married,86,6128.55,Electronics,7/9/2023,0
+100000724,50, Male,Platinum,Suburban, Exec-managerial,Married,8,734.2,Home Goods,13/4/2023,0
+100000725,42, Male,Bronze,, Exec-managerial,Married,7,2677.24,Clothing,6/1/2024,1
+100000726,43, Male,Gold,Rural, Prof-specialty, Never-married,45,1974.49,Home Goods,10/6/2022,0
+100000727,44, Female,Platinum,Rural, Sales,Married,44,8348.94,Electronics,25/11/2022,0
+100000728,20, Female,Platinum,Rural, Other-service, Never-married,13,255.53,Home Goods,16/11/2022,1
+100000729,31, Male,Silver,Suburban, Other-service,Married,77,628.01,Clothing,9/11/2023,0
+100000730,65, Male,Silver,Rural, Exec-managerial,Married,78,9451.64,Home Goods,9/5/2023,1
+100000731,23, Female,Gold,Urban, Other-service, Never-married,82,2701.74,Clothing,7/5/2023,0
+100000732,55, Female,Silver,Urban, Adm-clerical, Divorced,85,7180.75,Clothing,20/3/2023,0
+100000733,26, Male,Platinum,, Adm-clerical,Married,68,5769.49,Electronics,10/9/2023,0
+100000734,25, Female,Bronze,, Other-service, Never-married,40,3868.67,Clothing,18/7/2023,1
+100000735,45, Female,Bronze,Suburban,,Married,79,6273.72,Clothing,17/7/2023,0
+100000736,35, Male,Gold,Suburban, Craft-repair,Married,44,4613.28,Electronics,5/1/2024,0
+100000737,36, Female,Bronze,Rural, Sales, Never-married,68,2835.39,Electronics,27/8/2023,0
+100000738,43, Male,Silver,Urban, Prof-specialty,Married,41,773.73,Home Goods,18/1/2023,1
+100000739,56, Female,Bronze,Rural, Other-service, Widowed,54,9689.44,Electronics,10/7/2023,1
+100000740,42, Male,Silver,Rural, Tech-support,Married,34,477.09,Home Goods,21/5/2022,0
+100000741,19, Female,Silver,Rural, Other-service, Never-married,84,5546.39,Clothing,27/5/2022,0
+100000742,55, Male,Gold,Urban, Transport-moving,Married,13,5326.92,Clothing,1/4/2022,1
+100000743,42, Female,Bronze,, Exec-managerial, Never-married,33,2352.17,Home Goods,12/10/2022,1
+100000744,26, Male,Silver,Suburban, Tech-support, Never-married,60,8105.41,Home Goods,1/4/2023,1
+100000745,17, Male,Bronze,Suburban, Handlers-cleaners, Never-married,59,4742.66,Electronics,10/7/2023,1
+100000746,42, Female,Platinum,Rural, Prof-specialty,Married,33,9022.75,Clothing,19/2/2023,1
+100000747,55, Male,Bronze,Suburban, Transport-moving,Married,73,3530.33,Clothing,20/8/2023,0
+100000748,32, Female,Platinum,Rural, Adm-clerical, Never-married,83,4190.92,Electronics,28/11/2022,0
+100000749,29, Male,Gold,Rural, Craft-repair, Never-married,22,2599.92,Electronics,10/6/2022,0
+100000750,46, Male,Platinum,Rural, Prof-specialty,Married,42,2120.3,Home Goods,27/12/2022,1
+100000751,29, Male,Gold,, Exec-managerial,Married,65,1640.81,Clothing,7/1/2023,0
+100000752,22, Male,Silver,Urban, Prof-specialty, Never-married,100,8924.19,Clothing,4/10/2022,1
+100000753,58, Male,Platinum,Urban, Craft-repair,Married,37,7946.33,Home Goods,26/10/2023,0
+100000754,23, Male,Bronze,Urban, Transport-moving, Never-married,88,3491.84,Electronics,14/10/2022,1
+100000755,39, Male,Platinum,, Handlers-cleaners, Never-married,74,1609.85,Electronics,31/3/2023,1
+100000756,27, Male,Silver,, Craft-repair, Never-married,58,7322.5,Clothing,25/7/2023,0
+100000757,54, Male,Platinum,Urban, Transport-moving,Married,30,9829.41,Clothing,6/5/2022,1
+100000758,33, Female,Gold,Suburban, Prof-specialty, Never-married,19,2061.99,Home Goods,28/6/2023,0
+100000759,46, Female,Bronze,Suburban, Adm-clerical,Married,90,6358.04,Home Goods,3/5/2022,0
+100000760,37, Male,Gold,Suburban, Farming-fishing, Never-married,100,6080.94,Electronics,27/11/2022,1
+100000761,36, Female,Gold,Suburban, Other-service, Never-married,21,1422.33,Home Goods,16/2/2023,0
+100000762,59, Female,Gold,Rural, Adm-clerical,Married,89,6224.14,Electronics,28/4/2023,0
+100000763,34, Male,Silver,Urban, Protective-serv, Divorced,16,6904.29,Home Goods,29/4/2023,1
+100000764,53, Male,Platinum,Urban, Exec-managerial,Married,72,6484.74,Clothing,17/3/2022,1
+100000765,51, Male,Silver,Suburban, Sales, Never-married,88,5245.64,Home Goods,6/2/2022,1
+100000766,32, Female,Gold,Rural, Other-service, Separated,40,4399.62,Electronics,6/1/2024,0
+100000767,31, Male,Platinum,Rural, Other-service,Married,84,1326.5,Clothing,31/3/2022,0
+100000768,22, Female,Bronze,Rural, Sales,Married,42,7137.17,Clothing,13/6/2022,0
+100000769,47, Female,Platinum,Suburban, Sales, Divorced,96,2269.14,Home Goods,29/9/2023,0
+100000770,32, Male,Bronze,Suburban, Machine-op-inspct, Never-married,1,9152.77,Electronics,3/2/2022,0
+100000771,26, Female,Gold,Suburban, Farming-fishing, Never-married,58,563.86,Electronics,23/5/2022,0
+100000772,37, Male,Silver,Urban, Farming-fishing, Separated,9,698.96,Electronics,9/7/2022,1
+100000773,31, Male,Gold,Rural, Craft-repair, Divorced,99,9560.94,Electronics,26/1/2022,1
+100000774,37, Female,Silver,Rural, Tech-support,Married,100,7610.21,Home Goods,28/4/2023,1
+100000775,55, Male,Platinum,Rural, Sales, Never-married,21,9564.38,Electronics,5/9/2022,0
+100000776,23, Male,Platinum,Suburban, Tech-support, Divorced,37,7684.45,Home Goods,24/1/2022,0
+100000777,36, Female,Platinum,Rural, Adm-clerical, Divorced,12,8315.53,Clothing,31/5/2023,0
+100000778,34, Male,Platinum,Urban, Prof-specialty,Married,26,5551.62,Home Goods,31/3/2023,1
+100000779,43, Male,Platinum,Rural, Sales,Married,70,4397.21,Electronics,16/9/2022,0
+100000780,54, Male,Silver,, Tech-support, Never-married,53,671.3,Home Goods,31/12/2023,1
+100000781,43, Male,Platinum,Rural, Craft-repair,Married,97,9455.43,Clothing,24/4/2023,0
+100000782,28, Female,Gold,Rural, Machine-op-inspct, Never-married,40,6354.17,Electronics,2/8/2022,1
+100000783,40, Male,Bronze,Suburban, Exec-managerial,Married,58,1369.92,Clothing,21/9/2022,1
+100000784,41, Male,Platinum,Rural, Exec-managerial,Married,34,8888.24,Home Goods,12/7/2023,0
+100000785,40, Female,Bronze,Rural, Sales, Never-married,43,5400.01,Clothing,29/8/2023,1
+100000786,42, Female,Silver,Rural, Adm-clerical, Divorced,76,2395.51,Clothing,6/4/2023,1
+100000787,61, Male,Bronze,Urban, Farming-fishing,Married,28,4753.16,Clothing,25/12/2023,1
+100000788,18, Male,Silver,Rural, Machine-op-inspct, Never-married,75,5458.96,Clothing,12/6/2023,0
+100000789,59, Male,Bronze,Urban,,Married,92,3956.06,Home Goods,28/11/2022,0
+100000790,21, Female,Platinum,Rural,, Never-married,78,9856.61,Home Goods,3/9/2022,1
+100000791,48, Male,Bronze,Urban, Tech-support,Married,18,9680.81,Electronics,18/10/2022,1
+100000792,41, Male,Platinum,Suburban, Tech-support,Married,51,3364.83,Home Goods,31/7/2023,0
+100000793,18, Male,Platinum,Suburban,, Never-married,87,4853.96,Electronics,25/12/2022,0
+100000794,23, Female,Platinum,Urban, Sales, Never-married,62,1824.44,Electronics,15/5/2023,0
+100000795,60, Male,Platinum,Rural, Transport-moving,Married,55,3411.77,Electronics,9/10/2022,1
+100000796,22, Male,Gold,Suburban, Other-service, Never-married,49,6570.65,Clothing,22/9/2023,0
+100000797,61, Male,Platinum,Suburban, Machine-op-inspct,Married,75,9426.26,Electronics,10/5/2023,0
+100000798,25, Male,Platinum,Urban, Machine-op-inspct, Never-married,93,3554.95,Electronics,17/1/2022,1
+100000799,46, Male,Silver,Suburban, Tech-support, Never-married,12,3622.77,Electronics,15/7/2023,0
+100000800,43, Male,Silver,, Exec-managerial,Married,42,8162.87,Home Goods,24/3/2022,1
+100000801,43, Male,Gold,Rural, Craft-repair, Divorced,12,3092.91,Electronics,8/6/2023,1
+100000802,24, Male,Silver,Urban, Other-service, Never-married,74,9556.49,Clothing,30/1/2022,0
+100000803,68, Male,Gold,Rural, Farming-fishing, Never-married,78,6965.69,Clothing,8/5/2023,1
+100000804,31, Female,Platinum,, Adm-clerical, Divorced,50,8244.22,Clothing,27/6/2022,0
+100000805,17, Female,Bronze,Urban, Sales, Never-married,1,1308.89,Clothing,7/8/2022,0
+100000806,32, Male,Silver,Rural, Craft-repair,Married,45,8640.84,Electronics,1/2/2023,1
+100000807,50, Male,Platinum,Urban,,Married,73,1479.3,Electronics,27/11/2022,1
+100000808,33, Male,Silver,, Prof-specialty,Married,41,2386.97,Home Goods,4/11/2023,1
+100000809,64, Male,Platinum,Suburban, Prof-specialty,Married,98,2539.19,Home Goods,10/12/2023,1
+100000810,20, Male,Gold,Urban, Transport-moving, Never-married,10,2702.89,Clothing,10/3/2022,0
+100000811,30, Female,Bronze,Rural, Other-service, Separated,64,180.01,Electronics,25/12/2022,0
+100000812,22, Male,Gold,Suburban,, Never-married,20,345.62,Clothing,28/3/2022,0
+100000813,43, Male,Platinum,Suburban, Exec-managerial, Divorced,32,3425.89,Home Goods,6/1/2023,1
+100000814,22, Male,Silver,Urban, Adm-clerical, Never-married,56,2072.91,Clothing,10/6/2023,0
+100000815,17, Male,Gold,Urban, Farming-fishing, Never-married,18,6807.64,Home Goods,27/4/2022,0
+100000816,47, Female,Gold,Urban, Other-service,Married,29,6535.97,Home Goods,12/12/2023,1
+100000817,41, Female,Bronze,Urban, Prof-specialty, Never-married,12,8817.33,Electronics,8/1/2023,1
+100000818,56, Male,Gold,, Craft-repair,Married,97,3647.98,Clothing,7/4/2022,1
+100000819,64, Male,Silver,Suburban, Transport-moving,Married,10,9764.94,Electronics,19/12/2022,1
+100000820,47, Male,Silver,Urban, Transport-moving,Married,32,6521.45,Electronics,25/10/2022,0
+100000821,48, Male,Platinum,Urban, Adm-clerical, Never-married,78,9353.48,Home Goods,9/12/2023,0
+100000822,31, Female,Silver,Urban, Prof-specialty, Never-married,87,8341.84,Electronics,11/10/2023,0
+100000823,29, Male,Platinum,Rural, Tech-support, Never-married,50,9949.67,Home Goods,6/10/2023,1
+100000824,30, Female,Platinum,Rural, Adm-clerical, Widowed,7,7515.45,Clothing,1/2/2023,0
+100000825,32, Male,Gold,, Exec-managerial,Married,66,5102.01,Clothing,26/2/2022,0
+100000826,57, Male,Bronze,Rural, Transport-moving, Widowed,2,902.67,Electronics,30/8/2023,1
+100000827,62, Female,Bronze,Rural, Other-service, Widowed,45,4347.84,Clothing,7/11/2023,0
+100000828,39, Female,Gold,Suburban, Machine-op-inspct, Separated,7,8538.58,Home Goods,2/3/2022,1
+100000829,43, Male,Gold,Rural, Adm-clerical, Never-married,40,4473.76,Home Goods,24/1/2022,0
+100000830,24, Male,Silver,Urban, Sales, Never-married,5,3228.67,Home Goods,28/5/2022,0
+100000831,42, Male,Gold,Urban,,Married,16,6167.13,Home Goods,21/9/2023,1
+100000832,53, Female,Bronze,Rural, Adm-clerical,Married,81,156.89,Electronics,27/8/2023,1
+100000833,26, Male,Bronze,Rural, Handlers-cleaners, Never-married,85,3153.75,Home Goods,25/11/2022,0
+100000834,73, Male,Bronze,, Exec-managerial,Married,60,3746.74,Clothing,30/11/2023,1
+100000835,72, Female,Platinum,Urban,, Widowed,40,4070.87,Home Goods,10/9/2022,0
+100000836,55, Male,Gold,Urban, Machine-op-inspct,Married,82,8102.07,Electronics,6/1/2023,0
+100000837,25, Male,Gold,Rural, Adm-clerical, Divorced,95,6795.01,Clothing,20/1/2023,1
+100000838,41, Female,Platinum,Urban, Prof-specialty, Divorced,2,9739.33,Electronics,10/4/2023,1
+100000839,24, Male,Silver,Suburban, Exec-managerial, Never-married,93,2666.81,Home Goods,9/7/2022,0
+100000840,63, Male,Platinum,Suburban, Farming-fishing, Widowed,34,3345.88,Home Goods,15/3/2022,0
+100000841,17, Male,Platinum,Suburban, Sales, Never-married,77,4066.7,Home Goods,8/2/2022,1
+100000842,35, Male,Bronze,Suburban, Craft-repair,Married,3,4353.04,Home Goods,17/10/2023,1
+100000843,51, Male,Silver,Suburban, Prof-specialty,Married,2,9587.66,Electronics,6/8/2022,1
+100000844,62, Female,Bronze,Rural, Prof-specialty, Widowed,34,4920.95,Electronics,10/2/2022,0
+100000845,55, Male,Platinum,Rural, Craft-repair,Married,76,8149.73,Electronics,25/9/2023,0
+100000846,43, Male,Silver,Urban, Prof-specialty, Divorced,17,3397.84,Electronics,22/2/2023,0
+100000847,40, Female,Gold,Suburban, Other-service, Divorced,72,7933.69,Clothing,5/10/2023,0
+100000848,37, Male,Bronze,Rural, Exec-managerial,Married,32,393.16,Clothing,31/8/2022,1
+100000849,39, Male,Bronze,Suburban, Craft-repair,Married,21,7038.59,Clothing,27/2/2023,1
+100000850,31, Male,Silver,Suburban, Craft-repair, Never-married,80,5951.63,Electronics,17/2/2023,1
+100000851,61, Female,Bronze,Suburban, Prof-specialty, Widowed,64,4146.59,Home Goods,8/5/2022,0
+100000852,26, Female,Silver,Rural, Adm-clerical, Divorced,8,3996.66,Home Goods,14/12/2022,0
+100000853,46, Male,Bronze,Rural, Sales,Married,96,5740.74,Clothing,19/12/2022,1
+100000854,26, Female,Gold,Suburban, Prof-specialty, Never-married,63,4131.18,Electronics,12/8/2023,0
+100000855,48, Male,Silver,Rural, Prof-specialty, Divorced,15,3934.92,Electronics,13/12/2023,1
+100000856,34, Male,Bronze,Suburban, Transport-moving, Never-married,42,8649.23,Clothing,12/7/2023,0
+100000857,34, Female,Gold,Urban, Adm-clerical, Never-married,42,1810.8,Clothing,21/7/2022,0
+100000858,59, Male,Gold,Suburban, Other-service,Married,81,2041.31,Home Goods,23/5/2023,0
+100000859,34, Female,Silver,Rural, Prof-specialty, Never-married,94,1953.69,Clothing,14/8/2023,0
+100000860,49, Female,Gold,Urban, Exec-managerial, Never-married,26,8674.56,Home Goods,6/1/2023,1
+100000861,18, Female,Silver,, Adm-clerical, Never-married,62,3552.41,Home Goods,22/12/2023,1
+100000862,43, Male,Silver,Suburban, Farming-fishing,Married,6,8136.09,Clothing,5/1/2023,1
+100000863,48, Male,Platinum,, Exec-managerial,Married,41,9890.9,Electronics,4/5/2023,1
+100000864,28, Male,Silver,Urban, Exec-managerial,Married,40,814.77,Electronics,20/2/2023,1
+100000865,33, Male,Silver,Urban, Machine-op-inspct,Married,36,5780.99,Electronics,16/9/2023,0
+100000866,24, Female,Bronze,Urban, Sales, Never-married,51,5119.76,Clothing,30/10/2022,1
+100000867,21, Male,Platinum,Suburban, Handlers-cleaners, Never-married,4,3948.76,Home Goods,22/7/2022,1
+100000868,17, Male,Gold,Suburban, Sales, Never-married,49,3502.41,Home Goods,1/1/2024,1
+100000869,39, Male,Bronze,Urban, Farming-fishing,Married,65,4406.66,Electronics,30/12/2023,0
+100000870,29, Male,Gold,Urban, Prof-specialty, Separated,99,642.12,Home Goods,12/9/2023,0
+100000871,44, Male,Gold,Rural, Exec-managerial,Married,76,5715.09,Clothing,6/7/2022,0
+100000872,24, Male,Silver,Rural, Transport-moving, Never-married,14,3912.12,Electronics,1/2/2023,0
+100000873,71, Male,Platinum,Urban, Sales,Married,13,9743.07,Electronics,7/1/2022,1
+100000874,51, Male,Platinum,Urban, Sales,Married,59,1334.25,Clothing,9/2/2023,0
+100000875,55, Male,Bronze,Urban, Other-service, Divorced,50,3120.34,Electronics,12/12/2023,1
+100000876,41, Male,Silver,Rural, Exec-managerial,Married,4,9955.88,Home Goods,4/6/2023,1
+100000877,23, Female,Platinum,Urban, Handlers-cleaners, Never-married,4,8885.27,Clothing,12/10/2023,1
+100000878,38, Female,Platinum,, Adm-clerical, Divorced,85,908.77,Home Goods,27/12/2023,1
+100000879,39, Male,Silver,Rural, Transport-moving,Married,19,3810.4,Home Goods,17/9/2023,0
+100000880,19, Female,Gold,Suburban, Adm-clerical, Never-married,43,9035.34,Electronics,28/8/2022,0
+100000881,49, Female,Gold,Rural, Machine-op-inspct, Divorced,78,5889.39,Clothing,16/10/2023,0
+100000882,32, Male,Platinum,, Adm-clerical,Married,31,5755.47,Clothing,11/6/2023,0
+100000883,27, Male,Bronze,Rural, Craft-repair,Married,81,8693.1,Clothing,5/11/2022,1
+100000884,38, Male,Gold,Urban, Sales,Married,89,4567.32,Electronics,15/11/2022,0
+100000885,33, Female,Platinum,Rural, Craft-repair,Married,29,8090.61,Electronics,16/8/2022,1
+100000886,63, Male,Platinum,Urban,,Married,31,4932.63,Electronics,12/6/2023,1
+100000887,23, Male,Gold,Rural, Exec-managerial, Never-married,74,2755.63,Electronics,25/1/2022,0
+100000888,33, Male,Bronze,Rural, Craft-repair,Married,92,5748.79,Clothing,29/3/2023,0
+100000889,54, Male,Silver,Rural, Sales,Married,87,7419.19,Electronics,6/4/2023,1
+100000890,29, Female,Platinum,Suburban, Tech-support, Divorced,71,4969.23,Home Goods,9/3/2022,0
+100000891,48, Female,Silver,Suburban,, Divorced,70,9247.07,Electronics,9/4/2023,0
+100000892,35, Male,Gold,Urban, Exec-managerial, Never-married,32,1618,Electronics,6/10/2023,1
+100000893,28, Female,Platinum,Urban, Adm-clerical,Married,36,8658.93,Home Goods,4/2/2022,1
+100000894,37, Male,Silver,Rural, Prof-specialty,Married,84,1479.9,Home Goods,7/5/2022,1
+100000895,42, Male,Gold,Suburban, Farming-fishing,Married,25,101.29,Electronics,17/6/2023,0
+100000896,40, Male,Silver,Urban, Prof-specialty,Married,27,8787.23,Clothing,30/6/2023,0
+100000897,47, Male,Platinum,, Sales, Divorced,74,1124.09,Electronics,3/3/2022,1
+100000898,22, Female,Bronze,Suburban, Exec-managerial, Never-married,69,6926.18,Electronics,16/4/2022,0
+100000899,30, Male,Gold,Suburban, Exec-managerial,Married,97,3841.5,Home Goods,27/9/2022,0
+100000900,28, Male,Platinum,Suburban, Tech-support,Married,22,7755.73,Clothing,24/1/2022,0
+100000901,63, Male,Gold,Urban, Other-service,Married,100,7336.22,Electronics,6/7/2023,1
+100000902,51, Male,Platinum,Suburban, Craft-repair,Married,15,3714.74,Clothing,11/9/2022,1
+100000903,22, Female,Gold,Rural, Handlers-cleaners, Never-married,19,4081.66,Electronics,23/1/2022,0
+100000904,27, Male,Platinum,Urban,,Married,29,4049.28,Electronics,9/5/2022,1
+100000905,35, Male,Gold,Urban, Sales, Never-married,74,8208.36,Clothing,27/4/2023,0
+100000906,46, Female,Silver,Urban, Machine-op-inspct, Divorced,79,8804.18,Electronics,10/11/2022,1
+100000907,37, Male,Gold,Urban, Machine-op-inspct, Divorced,85,7391.44,Clothing,25/10/2022,0
+100000908,24, Male,Silver,, Prof-specialty, Never-married,83,2135.43,Clothing,29/1/2023,0
+100000909,37, Male,Gold,Urban, Handlers-cleaners, Divorced,70,8831.45,Clothing,3/10/2022,1
+100000910,53, Male,Silver,Urban, Tech-support,Married,8,5707.41,Electronics,15/8/2023,0
+100000911,27, Male,Bronze,Rural, Sales, Never-married,78,9492.32,Clothing,18/9/2023,0
+100000912,38, Male,Silver,Rural, Craft-repair, Divorced,61,3890,Home Goods,6/3/2022,1
+100000913,53, Male,Bronze,Urban, Farming-fishing,Married,49,2551.8,Home Goods,17/3/2022,0
+100000914,34, Male,Gold,, Craft-repair, Never-married,21,9384.21,Electronics,25/11/2023,0
+100000915,23, Male,Bronze,Urban, Sales, Never-married,47,2675.73,Clothing,25/2/2023,0
+100000916,39, Male,Platinum,Urban, Exec-managerial,Married,74,9453.12,Electronics,16/7/2022,0
+100000917,43, Female,Gold,Rural, Prof-specialty,Married,86,729.12,Electronics,4/8/2023,1
+100000918,67, Male,Bronze,Urban, Exec-managerial,Married,16,4823.86,Electronics,29/7/2022,0
+100000919,81, Male,Bronze,Rural, Exec-managerial,Married,76,7754,Clothing,3/1/2023,1
+100000920,21, Male,Silver,Rural, Other-service, Never-married,47,473.76,Clothing,25/8/2022,1
+100000921,23, Male,Gold,Urban, Sales, Never-married,67,4983.92,Clothing,10/11/2023,0
+100000922,25, Male,Platinum,Suburban, Transport-moving, Never-married,55,7588.17,Electronics,5/5/2023,1
+100000923,42, Female,Platinum,Urban, Machine-op-inspct,Married,31,1783.21,Electronics,21/8/2023,1
+100000924,38, Female,Platinum,Urban, Adm-clerical,Married,23,8997.61,Clothing,21/2/2023,0
+100000925,64, Male,Platinum,Urban,,Married,41,7163.18,Clothing,31/3/2023,0
+100000926,32, Male,Gold,Urban, Machine-op-inspct,Married,48,9180.22,Home Goods,20/2/2022,0
+100000927,37, Male,Platinum,Urban, Machine-op-inspct,Married,92,3538.91,Home Goods,21/8/2022,1
+100000928,51, Male,Platinum,Suburban, Exec-managerial,Married,16,9562.49,Clothing,8/2/2023,1
+100000929,22, Female,Bronze,Rural, Sales, Never-married,67,412.59,Clothing,13/7/2023,1
+100000930,33, Female,Bronze,Urban, Priv-house-serv,Married,77,1725.41,Clothing,28/7/2023,0
+100000931,42, Male,Platinum,, Machine-op-inspct, Divorced,77,7048.86,Clothing,24/8/2023,0
+100000932,19, Female,Bronze,Suburban,, Never-married,40,7966.65,Home Goods,21/11/2022,0
+100000933,51, Male,Gold,Rural, Other-service,Married,43,1582.63,Clothing,8/7/2022,1
+100000934,23, Female,Silver,Suburban, Adm-clerical,Married,82,9587.87,Electronics,25/3/2023,0
+100000935,37, Male,Silver,Urban, Machine-op-inspct,Married,33,6917,Home Goods,28/11/2023,0
+100000936,37, Male,Silver,Urban, Craft-repair,Married,90,7596.01,Electronics,24/5/2023,0
+100000937,47, Female,Bronze,Rural, Prof-specialty, Never-married,63,2561.45,Clothing,7/10/2023,1
+100000938,41, Male,Silver,Urban, Prof-specialty,Married,61,7053.75,Electronics,1/8/2023,0
+100000939,33, Male,Bronze,Suburban, Craft-repair,Married,27,8962.05,Electronics,13/12/2022,1
+100000940,31, Male,Gold,Urban, Sales, Never-married,26,3682.79,Clothing,2/10/2023,1
+100000941,31, Female,Bronze,Urban, Other-service, Divorced,46,2983.28,Electronics,12/3/2022,1
+100000942,35, Male,Gold,Suburban, Machine-op-inspct,Married,64,5959.62,Home Goods,16/12/2023,0
+100000943,38, Male,Silver,Suburban, Exec-managerial,Married,23,4023.9,Electronics,9/8/2022,0
+100000944,18, Female,Silver,Urban, Other-service, Never-married,56,929.11,Home Goods,10/3/2023,0
+100000945,20, Male,Platinum,Rural, Machine-op-inspct,Married,80,9409.5,Home Goods,7/12/2022,0
+100000946,54, Female,Gold,Urban, Exec-managerial, Divorced,60,3251.36,Home Goods,7/12/2022,0
+100000947,40, Female,Platinum,Rural, Adm-clerical, Divorced,18,4086.25,Clothing,8/7/2023,1
+100000948,36, Female,Platinum,, Exec-managerial,Married,97,4919.08,Home Goods,2/1/2023,0
+100000949,43, Male,Bronze,, Craft-repair, Divorced,78,7865.47,Electronics,15/3/2023,1
+100000950,44, Male,Bronze,, Farming-fishing, Divorced,31,511.75,Home Goods,5/6/2022,1
+100000951,44, Female,Silver,Urban, Prof-specialty,Married,93,4267.82,Clothing,15/8/2023,0
+100000952,43, Male,Silver,Suburban, Exec-managerial,Married,86,4492.92,Home Goods,21/5/2023,1
+100000953,51, Female,Platinum,Rural, Other-service, Widowed,66,4672.51,Electronics,6/5/2022,1
+100000954,18, Female,Platinum,Suburban, Other-service, Never-married,72,7678.35,Home Goods,26/4/2022,0
+100000955,51, Male,Platinum,Suburban, Exec-managerial,Married,4,7531.62,Electronics,12/4/2022,0
+100000956,41, Male,Gold,Suburban, Craft-repair,Married,98,9226.89,Electronics,7/10/2022,0
+100000957,44, Male,Silver,Suburban, Sales,Married,10,6943.17,Home Goods,23/9/2022,1
+100000958,33, Male,Platinum,Suburban, Transport-moving, Divorced,44,3121.47,Clothing,18/7/2022,0
+100000959,33, Male,Gold,Suburban, Exec-managerial,Married,57,5515.7,Home Goods,10/4/2022,1
+100000960,42, Male,Gold,Urban, Exec-managerial,Married,82,863.3,Clothing,19/5/2022,0
+100000961,25, Male,Silver,, Prof-specialty,Married,99,1941.78,Home Goods,21/4/2022,1
+100000962,32, Female,Gold,Urban, Machine-op-inspct, Divorced,70,1715.39,Clothing,3/4/2022,0
+100000963,32, Male,Bronze,Rural, Craft-repair,Married,5,8854.77,Electronics,28/6/2022,0
+100000964,36, Female,Bronze,Suburban, Exec-managerial, Divorced,23,7379.99,Home Goods,13/5/2023,0
+100000965,28, Male,Silver,Urban, Transport-moving,Married,73,2388.45,Electronics,24/8/2022,0
+100000966,20, Female,Silver,Urban, Other-service, Never-married,15,8602.31,Clothing,15/3/2022,0
+100000967,35, Male,Bronze,Suburban, Sales,Married,73,8875.87,Home Goods,13/9/2023,0
+100000968,55, Male,Gold,Rural, Craft-repair,Married,66,8977.7,Home Goods,13/2/2023,1
+100000969,48, Male,Gold,Suburban, Exec-managerial,Married,55,6500.97,Clothing,23/9/2023,0
+100000970,36, Female,Platinum,Suburban,, Widowed,72,2815.18,Home Goods,7/6/2022,0
+100000971,34, Male,Gold,Suburban, Craft-repair,Married,36,5382.15,Home Goods,11/2/2022,1
+100000972,28, Female,Bronze,Suburban, Tech-support, Never-married,48,624,Clothing,9/4/2023,0
+100000973,67, Male,Platinum,Rural, Exec-managerial, Widowed,73,3832.43,Clothing,9/5/2023,0
+100000974,37, Male,Platinum,Rural, Craft-repair,Married,65,6408.64,Home Goods,6/12/2022,0
+100000975,44, Male,Gold,Rural, Transport-moving, Never-married,38,8342.1,Electronics,17/3/2023,1
+100000976,25, Female,Silver,Urban, Sales, Never-married,63,2565.79,Home Goods,3/4/2022,0
+100000977,21, Female,Gold,Rural, Exec-managerial, Never-married,24,9820.97,Electronics,6/3/2023,0
+100000978,40, Male,Bronze,Suburban, Prof-specialty,Married,6,7921.1,Clothing,26/7/2022,1
+100000979,78, Female,Gold,Urban, Other-service, Widowed,56,3458.3,Home Goods,27/4/2023,0
+100000980,34, Male,Platinum,Suburban, Handlers-cleaners, Divorced,18,5775.15,Home Goods,14/3/2022,1
+100000981,49, Female,Bronze,Urban, Adm-clerical, Never-married,86,2378.46,Home Goods,6/10/2022,1
+100000982,22, Female,Bronze,Suburban, Adm-clerical, Never-married,70,326.17,Clothing,12/1/2022,0
+100000983,23, Female,Bronze,Rural,, Never-married,78,828.61,Electronics,15/3/2023,1
+100000984,60, Male,Bronze,Urban, Farming-fishing, Never-married,44,2031.45,Electronics,4/7/2023,0
+100000985,45, Male,Bronze,Urban, Protective-serv, Widowed,77,9948.09,Electronics,6/1/2023,0
+100000986,63, Female,Bronze,Suburban, Other-service, Divorced,46,6519.87,Electronics,2/3/2022,0
+100000987,41, Female,Silver,Urban, Craft-repair, Never-married,69,6019.76,Home Goods,28/7/2022,1
+100000988,47, Female,Bronze,Suburban, Adm-clerical, Divorced,28,9828.49,Electronics,14/8/2023,0
+100000989,44, Male,Gold,Suburban, Craft-repair, Divorced,8,4968.29,Home Goods,10/10/2023,1
+100000990,51, Female,Silver,Urban, Prof-specialty, Widowed,2,3565.26,Electronics,5/6/2022,0
+100000991,46, Male,Gold,Rural, Sales, Never-married,41,157.07,Home Goods,16/8/2022,0
+100000992,41, Male,Platinum,, Machine-op-inspct,Married,8,4164.98,Electronics,1/5/2023,0
+100000993,50, Male,Bronze,Urban, Craft-repair,Married,67,3666.74,Clothing,23/6/2023,1
+100000994,47, Male,Platinum,Urban, Adm-clerical,Married,26,3321.79,Electronics,25/10/2023,0
+100000995,35, Male,Gold,Rural, Exec-managerial, Never-married,6,3270.18,Home Goods,9/8/2023,0
+100000996,56, Male,Platinum,Urban, Exec-managerial,Married,63,2840.83,Home Goods,15/8/2023,1
+100000997,45, Male,Gold,Rural, Prof-specialty, Divorced,17,5406.14,Electronics,2/9/2022,1
+100000998,48, Male,Platinum,Rural, Exec-managerial, Divorced,81,6942.37,Clothing,25/10/2022,1
+100000999,40, Male,Gold,Suburban, Machine-op-inspct,Married,48,3940.29,Home Goods,25/2/2023,0
+100001000,39, Male,Silver,Rural, Exec-managerial,Married,37,8949.25,Home Goods,21/6/2022,1

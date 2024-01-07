@@ -1,0 +1,1001 @@
+﻿CustomerID,Age,Gender,MembershipLevel,Location,Occupation,MaritalStatus
+100000001,39, Male,Bronze,, Adm-clerical, Never-married
+100000002,50, Male,Gold,Suburban, Exec-managerial,Married
+100000003,38, Male,Silver,Suburban, Handlers-cleaners, Divorced
+100000004,53, Male,Platinum,Suburban, Handlers-cleaners,Married
+100000005,28, Female,Bronze,, Prof-specialty,Married
+100000006,37, Female,Gold,Urban, Exec-managerial,Married
+100000007,49, Female,Gold,Urban, Other-service,Married
+100000008,52, Male,Gold,, Exec-managerial,Married
+100000009,31, Female,Gold,Urban, Prof-specialty, Never-married
+100000010,42, Male,Silver,Rural, Exec-managerial,Married
+100000011,37, Male,Silver,Urban, Exec-managerial,Married
+100000012,30, Male,Platinum,Rural, Prof-specialty,Married
+100000013,23, Female,Gold,Rural, Adm-clerical, Never-married
+100000014,32, Male,Bronze,Suburban, Sales, Never-married
+100000015,40, Male,Gold,Rural, Craft-repair,Married
+100000016,34, Male,Bronze,Urban, Transport-moving,Married
+100000017,25, Male,Silver,Rural, Farming-fishing, Never-married
+100000018,32, Male,Gold,Suburban, Machine-op-inspct, Never-married
+100000019,38, Male,Bronze,Rural, Sales,Married
+100000020,43, Female,Platinum,, Exec-managerial, Divorced
+100000021,40, Male,Platinum,Urban, Prof-specialty,Married
+100000022,54, Female,Bronze,Urban, Other-service, Separated
+100000023,35, Male,Platinum,Rural, Farming-fishing,Married
+100000024,43, Male,Bronze,, Transport-moving,Married
+100000025,59, Female,Platinum,Rural, Tech-support, Divorced
+100000026,56, Male,Silver,Rural, Tech-support,Married
+100000027,19, Male,Silver,Rural, Craft-repair, Never-married
+100000028,54, Male,Gold,,,Married
+100000029,39, Male,Silver,Urban, Exec-managerial, Divorced
+100000030,49, Male,Platinum,Rural, Craft-repair,Married
+100000031,23, Male,Gold,Rural, Protective-serv, Never-married
+100000032,20, Male,Platinum,Suburban, Sales, Never-married
+100000033,45, Male,Silver,Rural, Exec-managerial, Divorced
+100000034,30, Male,Platinum,Urban, Adm-clerical,Married
+100000035,22, Male,Silver,Suburban, Other-service,Married
+100000036,48, Male,Silver,Suburban, Machine-op-inspct, Never-married
+100000037,21, Male,Bronze,Rural, Machine-op-inspct, Never-married
+100000038,19, Female,Silver,Suburban, Adm-clerical,Married
+100000039,31, Male,Bronze,Rural, Sales,Married
+100000040,48, Male,Platinum,, Prof-specialty,Married
+100000041,31, Male,Bronze,Rural, Machine-op-inspct,Married
+100000042,53, Male,Bronze,Rural, Prof-specialty,Married
+100000043,24, Male,Platinum,Rural, Tech-support,Married
+100000044,49, Female,Gold,Suburban, Adm-clerical, Separated
+100000045,25, Male,Bronze,Urban, Handlers-cleaners, Never-married
+100000046,57, Male,Silver,Urban, Prof-specialty,Married
+100000047,53, Male,Platinum,Urban, Machine-op-inspct,Married
+100000048,44, Female,Platinum,, Exec-managerial, Divorced
+100000049,41, Male,Silver,Suburban, Craft-repair,Married
+100000050,29, Male,Gold,Suburban, Prof-specialty, Never-married
+100000051,25, Female,Silver,Suburban, Exec-managerial,Married
+100000052,18, Female,Platinum,Rural, Other-service, Never-married
+100000053,47, Female,Bronze,Rural, Prof-specialty,Married
+100000054,50, Male,Bronze,Rural, Exec-managerial, Divorced
+100000055,47, Male,Gold,Suburban, Exec-managerial, Divorced
+100000056,43, Male,Silver,Rural, Tech-support,Married
+100000057,46, Male,Gold,Suburban, Machine-op-inspct,Married
+100000058,35, Male,Gold,Suburban, Other-service,Married
+100000059,41, Male,Gold,Urban, Adm-clerical,Married
+100000060,30, Male,Gold,Suburban, Machine-op-inspct,Married
+100000061,30, Male,Bronze,Suburban, Sales,Married
+100000062,32, Male,Platinum,Suburban,,Married
+100000063,48, Male,Bronze,Suburban, Transport-moving,Married
+100000064,42, Male,Silver,Urban, Prof-specialty,Married
+100000065,29, Male,Silver,Suburban, Tech-support, Divorced
+100000066,36, Male,Silver,Suburban, Craft-repair,Married
+100000067,28, Female,Platinum,Urban, Adm-clerical, Divorced
+100000068,53, Female,Bronze,Urban, Adm-clerical,Married
+100000069,49, Male,Platinum,Urban, Exec-managerial,Married
+100000070,25, Male,Silver,Urban,, Never-married
+100000071,19, Male,Silver,Rural, Prof-specialty, Never-married
+100000072,31, Female,Silver,Rural, Sales, Separated
+100000073,29, Male,Platinum,Suburban, Sales,Married
+100000074,23, Male,Platinum,Rural, Machine-op-inspct, Never-married
+100000075,79, Male,Bronze,, Prof-specialty,Married
+100000076,27, Male,Bronze,, Other-service, Never-married
+100000077,40, Male,Silver,Rural, Adm-clerical,Married
+100000078,67, Male,Platinum,Suburban,,Married
+100000079,18, Female,Gold,Rural, Other-service, Never-married
+100000080,31, Male,Gold,Suburban, Farming-fishing,Married
+100000081,18, Male,Silver,Urban, Sales, Never-married
+100000082,52, Male,Gold,Urban, Other-service,Married
+100000083,46, Female,Gold,Suburban, Other-service,Married
+100000084,59, Male,Platinum,Rural, Sales,Married
+100000085,44, Female,Gold,Suburban, Craft-repair, Divorced
+100000086,53, Female,Bronze,Suburban, Sales, Divorced
+100000087,49, Male,Silver,Suburban, Protective-serv,Married
+100000088,33, Male,Bronze,Urban, Prof-specialty,Married
+100000089,30, Male,Platinum,Urban, Sales, Never-married
+100000090,43, Female,Silver,Rural, Prof-specialty, Never-married
+100000091,57, Male,Gold,Suburban, Prof-specialty,Married
+100000092,37, Female,Gold,Rural, Craft-repair, Divorced
+100000093,28, Female,Gold,Urban, Machine-op-inspct, Divorced
+100000094,30, Female,Gold,Urban, Sales,Married
+100000095,34, Male,Silver,Rural, Protective-serv,Married
+100000096,29, Male,Platinum,Rural, Handlers-cleaners, Never-married
+100000097,48, Male,Gold,Suburban, Prof-specialty,Married
+100000098,37, Male,Silver,Suburban, Sales,Married
+100000099,48, Female,Silver,Rural, Exec-managerial, Divorced
+100000100,32, Male,Silver,, Other-service, Never-married
+100000101,76, Male,Gold,, Exec-managerial,Married
+100000102,44, Male,Silver,Urban, Exec-managerial,Married
+100000103,47, Female,Platinum,Rural, Prof-specialty, Never-married
+100000104,20, Female,Gold,Rural, Tech-support, Never-married
+100000105,29, Male,Gold,Urban, Craft-repair, Never-married
+100000106,32, Male,Bronze,Suburban, Craft-repair,Married
+100000107,17, Female,Platinum,Rural,, Never-married
+100000108,30, Male,Platinum,Suburban, Handlers-cleaners, Never-married
+100000109,31, Female,Silver,Suburban, Adm-clerical, Never-married
+100000110,42, Male,Silver,Suburban, Handlers-cleaners,Married
+100000111,24, Male,Silver,Suburban, Sales, Never-married
+100000112,38, Male,Bronze,Rural, Prof-specialty,Married
+100000113,56, Male,Gold,Rural, Other-service,Married
+100000114,28, Female,Silver,Suburban, Sales,Married
+100000115,36, Female,Bronze,Suburban, Machine-op-inspct, Never-married
+100000116,53, Male,Gold,Suburban, Handlers-cleaners,Married
+100000117,56, Male,Platinum,Rural, Sales,Married
+100000118,49, Male,Bronze,Rural, Craft-repair,Married
+100000119,55, Male,Bronze,Urban, Sales,Married
+100000120,22, Male,Platinum,Urban, Craft-repair, Never-married
+100000121,21, Female,Silver,Urban, Other-service, Never-married
+100000122,40, Male,Silver,Urban, Exec-managerial,Married
+100000123,30, Male,Silver,Rural, Exec-managerial, Never-married
+100000124,29, Male,Silver,Suburban, Prof-specialty,Married
+100000125,19, Male,Silver,Suburban, Other-service, Never-married
+100000126,47, Female,Silver,Rural, Exec-managerial,Married
+100000127,20, Female,Platinum,Urban, Adm-clerical, Never-married
+100000128,31, Male,Silver,Urban, Adm-clerical,Married
+100000129,35, Male,Platinum,Suburban,,Married
+100000130,39, Male,Platinum,Urban, Craft-repair, Divorced
+100000131,28, Female,Silver,Suburban, Sales, Never-married
+100000132,24, Female,Gold,Suburban, Other-service, Never-married
+100000133,38, Male,Platinum,Suburban, Craft-repair,Married
+100000134,37, Male,Platinum,Rural, Sales,Married
+100000135,46, Female,Platinum,Suburban, Tech-support, Divorced
+100000136,38, Male,Gold,Rural, Prof-specialty,Married
+100000137,43, Male,Gold,Suburban, Craft-repair,Married
+100000138,27, Female,Bronze,Suburban, Adm-clerical,Married
+100000139,20, Male,Gold,Rural, Sales, Never-married
+100000140,49, Male,Bronze,Rural, Craft-repair,Married
+100000141,61, Male,Bronze,Urban, Craft-repair,Married
+100000142,27, Female,Platinum,Urban, Sales, Never-married
+100000143,19, Male,Gold,Urban, Other-service, Never-married
+100000144,45, Female,Silver,Urban, Prof-specialty, Never-married
+100000145,70, Male,Bronze,Suburban, Tech-support, Never-married
+100000146,31, Female,Silver,Suburban, Transport-moving, Never-married
+100000147,22, Male,Gold,Suburban, Other-service,Married
+100000148,36, Female,Platinum,Rural, Other-service, Widowed
+100000149,64, Male,Silver,Rural, Craft-repair,Married
+100000150,43, Female,Bronze,Urban,, Divorced
+100000151,47, Female,Bronze,Rural, Adm-clerical, Divorced
+100000152,34, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000153,33, Female,Bronze,Rural, Exec-managerial, Never-married
+100000154,21, Male,Gold,Rural, Craft-repair, Never-married
+100000155,52, Male,Gold,Urban,, Divorced
+100000156,48, Male,Silver,Rural, Craft-repair,Married
+100000157,23, Male,Platinum,, Handlers-cleaners, Never-married
+100000158,71, Male,Gold,Rural, Sales, Separated
+100000159,29, Male,Silver,, Craft-repair, Divorced
+100000160,42, Male,Gold,Rural, Other-service, Separated
+100000161,68, Female,Bronze,Suburban,, Divorced
+100000162,25, Female,Platinum,Rural, Other-service, Never-married
+100000163,44, Female,Platinum,Urban, Exec-managerial, Divorced
+100000164,28, Female,Platinum,Rural, Exec-managerial, Never-married
+100000165,45, Male,Gold,Rural, Sales,Married
+100000166,36, Female,Bronze,Suburban, Other-service, Divorced
+100000167,39, Male,Platinum,Rural, Exec-managerial, Never-married
+100000168,46, Male,Silver,Urban, Protective-serv, Widowed
+100000169,18, Male,Silver,Suburban, Handlers-cleaners, Never-married
+100000170,66, Female,Platinum,Urban, Prof-specialty, Widowed
+100000171,27, Male,Silver,Suburban, Other-service, Never-married
+100000172,28, Male,Gold,Suburban, Protective-serv,Married
+100000173,51, Male,Silver,Suburban, Sales,Married
+100000174,27, Male,Gold,Rural, Craft-repair, Never-married
+100000175,28, Male,Bronze,Rural, Prof-specialty,Married
+100000176,27, Female,Gold,Urban, Sales,Married
+100000177,21, Male,Platinum,Suburban, Craft-repair, Never-married
+100000178,34, Male,Silver,Rural, Handlers-cleaners, Never-married
+100000179,18, Male,Platinum,Rural, Other-service, Never-married
+100000180,33, Male,Silver,Suburban, Prof-specialty,Married
+100000181,44, Male,Silver,Urban, Exec-managerial,Married
+100000182,43, Female,Silver,Rural, Adm-clerical, Divorced
+100000183,30, Male,Bronze,Rural, Craft-repair, Never-married
+100000184,40, Male,Platinum,Suburban, Machine-op-inspct,Married
+100000185,37, Male,Platinum,Suburban, Adm-clerical,Married
+100000186,34, Male,Bronze,Rural, Adm-clerical,Married
+100000187,41, Female,Platinum,Suburban, Exec-managerial, Divorced
+100000188,53, Female,Gold,Urban,, Divorced
+100000189,31, Female,Gold,Rural, Prof-specialty,Married
+100000190,58, Male,Silver,, Prof-specialty,Married
+100000191,38, Female,Bronze,Rural, Machine-op-inspct, Divorced
+100000192,24, Male,Gold,Urban, Machine-op-inspct,Married
+100000193,41, Male,Gold,Urban, Craft-repair,Married
+100000194,47, Male,Silver,Rural, Tech-support,Married
+100000195,41, Male,Bronze,Urban, Tech-support,Married
+100000196,23, Male,Platinum,Urban, Transport-moving,Married
+100000197,36, Male,Silver,Urban, Craft-repair, Divorced
+100000198,40, Female,Platinum,Suburban, Exec-managerial, Never-married
+100000199,35, Male,Platinum,Suburban, Prof-specialty,Married
+100000200,24, Male,Bronze,Rural, Sales, Never-married
+100000201,26, Female,Bronze,Rural, Prof-specialty, Never-married
+100000202,19, Male,Silver,Suburban,, Never-married
+100000203,51, Male,Platinum,Urban, Exec-managerial,Married
+100000204,42, Female,Silver,Rural, Prof-specialty, Never-married
+100000205,37, Female,Platinum,Rural, Adm-clerical, Divorced
+100000206,18, Female,Gold,, Sales, Never-married
+100000207,36, Male,Bronze,Urban, Other-service,Married
+100000208,35, Male,Silver,Rural, Craft-repair, Divorced
+100000209,58, Female,Platinum,Urban, Sales,Married
+100000210,17, Female,Silver,Suburban, Sales, Never-married
+100000211,44, Male,Silver,Rural, Transport-moving,Married
+100000212,37, Male,Bronze,, Craft-repair,Married
+100000213,35, Female,Bronze,Urban, Sales, Never-married
+100000214,60, Male,Bronze,Suburban, Craft-repair,Married
+100000215,54, Male,Gold,Rural, Machine-op-inspct,Married
+100000216,37, Male,Bronze,Rural, Exec-managerial, Never-married
+100000217,50, Female,Gold,, Sales, Divorced
+100000218,38, Male,Silver,, Sales,Married
+100000219,45, Male,Platinum,Rural, Prof-specialty,Married
+100000220,25, Male,Gold,Rural, Craft-repair, Never-married
+100000221,31, Male,Bronze,Suburban, Handlers-cleaners,Married
+100000222,64, Male,Platinum,Suburban,, Divorced
+100000223,90, Male,Platinum,Suburban, Other-service, Never-married
+100000224,54, Male,Silver,Urban, Adm-clerical,Married
+100000225,53, Female,Bronze,Urban, Machine-op-inspct, Never-married
+100000226,18, Female,Bronze,Suburban, Sales, Never-married
+100000227,60, Female,Bronze,Rural,, Divorced
+100000228,66, Male,Platinum,Rural, Farming-fishing,Married
+100000229,75, Female,Silver,Suburban, Adm-clerical, Widowed
+100000230,65, Female,Silver,Suburban, Adm-clerical, Divorced
+100000231,35, Male,Gold,Urban, Transport-moving, Separated
+100000232,41, Female,Platinum,Rural, Sales, Divorced
+100000233,25, Male,Bronze,Urban, Adm-clerical, Never-married
+100000234,33, Female,Platinum,Rural, Craft-repair, Divorced
+100000235,28, Male,Gold,Urban, Prof-specialty, Never-married
+100000236,59, Male,Gold,Rural, Other-service,Married
+100000237,40, Female,Silver,Urban, Adm-clerical, Never-married
+100000238,41, Male,Platinum,Rural, Exec-managerial,Married
+100000239,38, Male,Platinum,Suburban, Exec-managerial,Married
+100000240,23, Male,Silver,, Transport-moving, Never-married
+100000241,40, Male,Bronze,Suburban, Prof-specialty,Married
+100000242,41, Female,Gold,Urban, Other-service,Married
+100000243,24, Male,Platinum,Urban, Protective-serv,Married
+100000244,20, Male,Bronze,Rural,, Never-married
+100000245,38, Male,Silver,Suburban, Craft-repair, Divorced
+100000246,56, Male,Silver,, Adm-clerical,Married
+100000247,58, Male,Silver,Urban, Adm-clerical,Married
+100000248,32, Female,Bronze,Rural, Other-service, Never-married
+100000249,40, Male,Bronze,Urban, Tech-support,Married
+100000250,45, Male,Silver,Suburban, Adm-clerical,Married
+100000251,41, Female,Platinum,Rural, Prof-specialty,Married
+100000252,42, Female,Bronze,Rural, Adm-clerical,Married
+100000253,59, Female,Platinum,, Other-service, Widowed
+100000254,19, Male,Bronze,Rural, Adm-clerical, Never-married
+100000255,58, Male,Platinum,Urban, Transport-moving, Never-married
+100000256,42, Male,Bronze,Rural, Farming-fishing,Married
+100000257,20, Female,Platinum,Suburban, Other-service, Never-married
+100000258,32, Female,Gold,Urban, Other-service, Separated
+100000259,45, Female,Gold,Urban, Exec-managerial, Widowed
+100000260,50, Male,Gold,Suburban, Craft-repair, Divorced
+100000261,36, Female,Platinum,Urban, Prof-specialty, Divorced
+100000262,45, Male,Platinum,Rural, Sales,Married
+100000263,17, Male,Silver,Urban, Other-service, Never-married
+100000264,59, Male,Silver,Urban, Sales,Married
+100000265,26, Male,Platinum,Rural, Craft-repair,Married
+100000266,37, Male,Platinum,Rural, Exec-managerial,Married
+100000267,19, Male,Platinum,,, Never-married
+100000268,64, Male,Gold,Rural, Exec-managerial,Married
+100000269,33, Female,Platinum,Suburban, Prof-specialty, Never-married
+100000270,33, Female,Silver,Rural, Craft-repair,Married
+100000271,61, Male,Gold,Urban, Exec-managerial,Married
+100000272,17, Male,Gold,Urban, Other-service, Never-married
+100000273,50, Male,Platinum,Rural, Farming-fishing,Married
+100000274,27, Male,Platinum,, Prof-specialty, Never-married
+100000275,30, Female,Gold,Urban, Prof-specialty, Divorced
+100000276,43, Male,Gold,Rural, Handlers-cleaners,Married
+100000277,44, Male,Gold,Urban, Craft-repair,Married
+100000278,35, Female,Bronze,Urban, Exec-managerial, Never-married
+100000279,25, Female,Platinum,Suburban, Tech-support, Never-married
+100000280,24, Female,Silver,, Machine-op-inspct,Married
+100000281,22, Female,Bronze,Rural, Prof-specialty, Never-married
+100000282,42, Male,Silver,Urban, Craft-repair,Married
+100000283,34, Female,Silver,Suburban, Sales, Divorced
+100000284,60, Female,Gold,Rural, Prof-specialty, Divorced
+100000285,21, Male,Gold,Rural, Handlers-cleaners, Never-married
+100000286,57, Male,Platinum,Suburban, Sales,Married
+100000287,41, Male,Silver,Urban, Prof-specialty,Married
+100000288,50, Male,Platinum,Suburban, Other-service, Divorced
+100000289,25, Female,Platinum,Urban, Exec-managerial, Never-married
+100000290,50, Male,Silver,, Craft-repair,Married
+100000291,36, Male,Platinum,Suburban, Prof-specialty,Married
+100000292,31, Female,Gold,Urban, Prof-specialty, Divorced
+100000293,29, Male,Silver,Suburban, Protective-serv, Never-married
+100000294,21, Male,Gold,Rural, Sales, Never-married
+100000295,27, Female,Bronze,, Tech-support, Never-married
+100000296,65, Male,Bronze,Rural, Transport-moving,Married
+100000297,37, Female,Gold,Suburban, Sales, Divorced
+100000298,39, Female,Silver,Urban,,Married
+100000299,24, Male,Platinum,Rural, Craft-repair, Never-married
+100000300,38, Male,Bronze,Rural, Sales, Divorced
+100000301,48, Male,Platinum,Rural, Adm-clerical,Married
+100000302,21, Female,Platinum,Rural, Other-service, Never-married
+100000303,31, Male,Gold,Rural, Transport-moving,Married
+100000304,55, Male,Platinum,Urban, Sales,Married
+100000305,24, Female,Bronze,Rural, Adm-clerical,Married
+100000306,43, Female,Gold,Rural, Adm-clerical, Divorced
+100000307,26, Male,Bronze,Urban, Tech-support, Never-married
+100000308,46, Female,Bronze,Suburban, Prof-specialty, Never-married
+100000309,35, Male,Bronze,Rural, Adm-clerical,Married
+100000310,41, Male,Bronze,Urban, Farming-fishing,Married
+100000311,26, Male,Platinum,Urban, Sales, Never-married
+100000312,34, Male,Bronze,Urban, Exec-managerial,Married
+100000313,19, Female,Silver,Urban,, Never-married
+100000314,36, Female,Silver,Suburban, Prof-specialty, Divorced
+100000315,22, Male,Platinum,, Sales, Never-married
+100000316,24, Male,Bronze,Rural, Machine-op-inspct, Never-married
+100000317,77, Male,Gold,Urban, Sales,Married
+100000318,22, Female,Silver,Suburban, Machine-op-inspct,Married
+100000319,29, Female,Gold,Urban, Tech-support, Never-married
+100000320,62, Female,Bronze,Suburban, Other-service, Widowed
+100000321,39, Male,Platinum,Rural, Exec-managerial,Married
+100000322,43, Male,Bronze,Suburban, Craft-repair,Married
+100000323,35, Male,Bronze,Urban, Transport-moving, Divorced
+100000324,29, Female,Bronze,Rural, Exec-managerial, Never-married
+100000325,76, Male,Gold,Urban, Craft-repair,Married
+100000326,63, Male,Gold,Rural, Farming-fishing,Married
+100000327,23, Female,Gold,Urban,, Never-married
+100000328,43, Female,Platinum,Rural, Prof-specialty,Married
+100000329,58, Male,Bronze,Urban, Handlers-cleaners,Married
+100000330,66, Male,Bronze,Rural, Transport-moving, Never-married
+100000331,41, Male,Platinum,Urban, Craft-repair, Never-married
+100000332,26, Male,Bronze,, Adm-clerical, Never-married
+100000333,47, Male,Bronze,, Other-service, Never-married
+100000334,55, Male,Bronze,Urban, Adm-clerical,Married
+100000335,53, Male,Platinum,Urban, Transport-moving,Married
+100000336,17, Male,Silver,Urban, Other-service, Never-married
+100000337,30, Male,Gold,Urban, Craft-repair, Never-married
+100000338,49, Male,Bronze,Rural, Prof-specialty, Never-married
+100000339,19, Male,Platinum,Urban, Sales, Never-married
+100000340,45, Male,Silver,Urban, Other-service,Married
+100000341,26, Male,Gold,Suburban, Sales, Never-married
+100000342,38, Male,Bronze,Urban, Craft-repair,Married
+100000343,36, Male,Platinum,Urban, Protective-serv,Married
+100000344,33, Male,Bronze,Suburban, Farming-fishing, Never-married
+100000345,22, Female,Gold,Urban, Protective-serv, Never-married
+100000346,43, Male,Bronze,Rural, Sales, Never-married
+100000347,67, Male,Bronze,Suburban,,Married
+100000348,30, Female,Platinum,Rural,, Divorced
+100000349,56, Male,Gold,Rural, Other-service,Married
+100000350,31, Male,Silver,Rural, Prof-specialty, Never-married
+100000351,33, Male,Silver,Urban, Exec-managerial,Married
+100000352,26, Male,Platinum,Suburban, Other-service,Married
+100000353,33, Male,Platinum,, Exec-managerial,Married
+100000354,46, Male,Silver,Suburban, Transport-moving,Married
+100000355,59, Male,Gold,Urban,,Married
+100000356,38, Male,Gold,Rural, Adm-clerical,Married
+100000357,65, Male,Platinum,, Other-service, Widowed
+100000358,40, Male,Silver,Rural, Tech-support,Married
+100000359,42, Female,Bronze,Suburban, Adm-clerical,Married
+100000360,26, Male,Silver,Rural, Craft-repair,Married
+100000361,36, Female,Bronze,Rural, Other-service,Married
+100000362,62, Male,Platinum,Rural, Prof-specialty,Married
+100000363,43, Male,Platinum,Suburban, Transport-moving,Married
+100000364,43, Male,Gold,Rural, Exec-managerial, Divorced
+100000365,22, Male,Gold,Suburban, Sales,Married
+100000366,28, Male,Platinum,, Craft-repair,Married
+100000367,56, Male,Platinum,Rural, Sales,Married
+100000368,22, Female,Platinum,Rural, Sales, Never-married
+100000369,57, Female,Gold,Rural, Exec-managerial, Divorced
+100000370,39, Female,Silver,Rural, Sales, Divorced
+100000371,26, Female,Silver,Suburban, Adm-clerical, Never-married
+100000372,17, Male,Bronze,, Other-service, Never-married
+100000373,40, Male,Platinum,Rural, Machine-op-inspct,Married
+100000374,45, Male,Bronze,Suburban, Machine-op-inspct,Married
+100000375,44, Male,Gold,Rural, Craft-repair, Never-married
+100000376,20, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000377,33, Female,Gold,Urban, Craft-repair,Married
+100000378,23, Male,Silver,Urban, Sales, Never-married
+100000379,46, Male,Silver,Suburban, Exec-managerial, Divorced
+100000380,38, Male,Gold,Urban, Sales,Married
+100000381,54, Male,Gold,Urban, Transport-moving, Divorced
+100000382,46, Female,Gold,Suburban, Craft-repair, Divorced
+100000383,25, Male,Platinum,, Craft-repair,Married
+100000384,46, Female,Silver,Rural, Sales, Divorced
+100000385,36, Female,Gold,Rural, Transport-moving,Married
+100000386,23, Female,Silver,Suburban, Other-service, Never-married
+100000387,29, Male,Platinum,Rural, Machine-op-inspct, Separated
+100000388,44, Female,Silver,Urban, Adm-clerical,Married
+100000389,19, Female,Platinum,Rural, Adm-clerical, Never-married
+100000390,19, Female,Bronze,Suburban, Other-service, Never-married
+100000391,35, Female,Bronze,Suburban, Other-service,Married
+100000392,27, Male,Bronze,Urban, Craft-repair, Never-married
+100000393,46, Male,Silver,, Craft-repair, Separated
+100000394,34, Male,Silver,Suburban, Exec-managerial,Married
+100000395,34, Female,Platinum,Urban, Other-service, Never-married
+100000396,44, Male,Platinum,Rural, Tech-support,Married
+100000397,45, Female,Platinum,Urban, Handlers-cleaners, Divorced
+100000398,20, Female,Bronze,Suburban,, Never-married
+100000399,25, Male,Silver,Suburban, Exec-managerial,Married
+100000400,52, Male,Gold,Rural, Exec-managerial,Married
+100000401,20, Male,Gold,Urban, Handlers-cleaners, Never-married
+100000402,28, Female,Silver,, Other-service, Never-married
+100000403,50, Male,Platinum,Suburban, Protective-serv,Married
+100000404,34, Female,Bronze,Rural, Tech-support, Divorced
+100000405,28, Male,Bronze,Suburban, Handlers-cleaners,Married
+100000406,41, Male,Silver,Urban, Exec-managerial,Married
+100000407,28, Male,Platinum,Rural, Adm-clerical,Married
+100000408,46, Male,Bronze,Urban, Craft-repair,Married
+100000409,28, Female,Bronze,Suburban,,Married
+100000410,32, Male,Bronze,Suburban, Exec-managerial,Married
+100000411,41, Female,Gold,Rural, Other-service, Divorced
+100000412,24, Female,Platinum,Suburban, Handlers-cleaners, Never-married
+100000413,33, Female,Gold,Urban, Exec-managerial, Divorced
+100000414,46, Male,Platinum,Rural, Exec-managerial,Married
+100000415,31, Male,Platinum,Rural, Machine-op-inspct,Married
+100000416,35, Male,Silver,Urban, Craft-repair, Divorced
+100000417,52, Male,Gold,Urban, Machine-op-inspct,Married
+100000418,30, Female,Silver,Suburban, Other-service, Never-married
+100000419,34, Male,Gold,Suburban, Machine-op-inspct, Separated
+100000420,34, Female,Silver,Urban, Transport-moving, Divorced
+100000421,20, Male,Bronze,Suburban, Sales,Married
+100000422,17, Male,Gold,Suburban, Handlers-cleaners, Never-married
+100000423,32, Female,Bronze,Suburban, Exec-managerial,Married
+100000424,29, Male,Platinum,Rural, Farming-fishing, Divorced
+100000425,33, Female,Gold,Rural, Craft-repair, Never-married
+100000426,25, Male,Gold,Rural, Transport-moving,Married
+100000427,36, Male,Silver,Suburban, Prof-specialty, Never-married
+100000428,23, Male,Silver,Urban, Handlers-cleaners, Never-married
+100000429,63, Male,Bronze,Rural, Exec-managerial,Married
+100000430,47, Male,Silver,Rural, Prof-specialty,Married
+100000431,80, Male,Bronze,Rural,, Widowed
+100000432,17, Male,Platinum,Rural,, Never-married
+100000433,40, Female,Bronze,, Prof-specialty,Married
+100000434,30, Female,Platinum,Suburban, Other-service,Married
+100000435,27, Male,Bronze,Suburban, Craft-repair, Never-married
+100000436,33, Male,Platinum,Suburban, Prof-specialty,Married
+100000437,34, Male,Bronze,Urban, Farming-fishing, Never-married
+100000438,34, Female,Silver,Urban, Protective-serv, Never-married
+100000439,23, Male,Bronze,Rural, Adm-clerical,Married
+100000440,42, Female,Bronze,Suburban, Adm-clerical,Married
+100000441,29, Male,Bronze,, Prof-specialty, Never-married
+100000442,45, Female,Bronze,Rural, Adm-clerical, Divorced
+100000443,24, Male,Platinum,Urban, Armed-Forces, Never-married
+100000444,44, Male,Silver,Suburban, Prof-specialty,Married
+100000445,27, Male,Gold,Rural, Craft-repair, Never-married
+100000446,20, Male,Platinum,, Sales, Never-married
+100000447,44, Female,Bronze,Suburban, Exec-managerial, Widowed
+100000448,51, Male,Gold,Rural, Craft-repair,Married
+100000449,20, Male,Bronze,Urban, Machine-op-inspct,Married
+100000450,17, Female,Platinum,Rural,, Never-married
+100000451,19, Female,Gold,Suburban, Machine-op-inspct, Never-married
+100000452,45, Male,Platinum,Urban, Craft-repair,Married
+100000453,60, Male,Silver,Rural, Craft-repair,Married
+100000454,42, Male,Silver,Rural, Exec-managerial,Married
+100000455,44, Female,Silver,, Sales,Married
+100000456,40, Male,Platinum,Urban, Machine-op-inspct,Married
+100000457,30, Female,Platinum,Rural, Exec-managerial,Married
+100000458,38, Male,Platinum,Suburban, Transport-moving,Married
+100000459,23, Male,Gold,Suburban, Transport-moving,Married
+100000460,32, Male,Bronze,Urban,,Married
+100000461,44, Male,Silver,Suburban, Farming-fishing, Never-married
+100000462,54, Male,Gold,Rural, Transport-moving,Married
+100000463,32, Male,Gold,, Prof-specialty,Married
+100000464,50, Male,Bronze,Suburban, Craft-repair,Married
+100000465,24, Female,Bronze,Rural, Tech-support, Never-married
+100000466,37, Female,Platinum,, Adm-clerical,Married
+100000467,52, Male,Bronze,Rural, Transport-moving, Divorced
+100000468,38, Male,Bronze,Urban, Transport-moving,Married
+100000469,49, Male,Platinum,Urban, Exec-managerial,Married
+100000470,30, Female,Bronze,Urban, Tech-support,Married
+100000471,60, Male,Silver,Suburban, Prof-specialty, Never-married
+100000472,22, Male,Platinum,Rural,, Never-married
+100000473,35, Male,Platinum,Rural, Craft-repair, Never-married
+100000474,30, Male,Gold,Rural, Transport-moving, Never-married
+100000475,67, Female,Gold,Urban, Other-service, Divorced
+100000476,46, Female,Silver,Rural, Craft-repair, Never-married
+100000477,17, Male,Platinum,, Other-service, Never-married
+100000478,22, Male,Platinum,Suburban, Handlers-cleaners, Never-married
+100000479,27, Male,Platinum,Urban, Other-service, Never-married
+100000480,23, Female,Platinum,Rural, Other-service, Never-married
+100000481,33, Male,Gold,Urban, Craft-repair,Married
+100000482,43, Male,Silver,Suburban, Craft-repair,Married
+100000483,28, Male,Bronze,Suburban, Prof-specialty, Never-married
+100000484,41, Female,Platinum,Rural, Craft-repair,Married
+100000485,52, Male,Bronze,,, Never-married
+100000486,25, Female,Silver,, Adm-clerical,Married
+100000487,63, Male,Silver,Suburban,,Married
+100000488,59, Male,Gold,Rural, Transport-moving,Married
+100000489,45, Female,Bronze,Suburban, Prof-specialty, Divorced
+100000490,38, Male,Gold,Urban, Sales,Married
+100000491,40, Female,Bronze,Suburban, Other-service, Never-married
+100000492,46, Male,Bronze,Suburban, Adm-clerical, Divorced
+100000493,35, Female,Bronze,Rural, Exec-managerial, Never-married
+100000494,34, Female,Platinum,Suburban, Prof-specialty, Divorced
+100000495,33, Male,Platinum,, Craft-repair, Never-married
+100000496,41, Female,Bronze,Urban, Adm-clerical, Divorced
+100000497,20, Male,Bronze,Rural, Machine-op-inspct, Never-married
+100000498,23, Male,Platinum,Urban, Other-service, Never-married
+100000499,26, Female,Silver,Suburban, Prof-specialty, Never-married
+100000500,72, Male,Platinum,Urban,,Married
+100000501,23, Male,Platinum,Urban, Farming-fishing, Never-married
+100000502,62, Male,Silver,Suburban, Transport-moving,Married
+100000503,52, Male,Gold,Urban, Adm-clerical,Married
+100000504,58, Female,Silver,Rural, Other-service, Divorced
+100000505,25, Female,Platinum,Rural, Sales, Never-married
+100000506,24, Male,Platinum,, Exec-managerial, Never-married
+100000507,19, Male,Silver,, Protective-serv, Never-married
+100000508,43, Male,Bronze,Rural, Exec-managerial,Married
+100000509,47, Female,Silver,Suburban, Adm-clerical, Separated
+100000510,39, Female,Bronze,Rural, Other-service, Divorced
+100000511,49, Male,Silver,Urban, Handlers-cleaners,Married
+100000512,53, Female,Silver,Urban,, Widowed
+100000513,32, Male,Silver,Rural, Craft-repair, Never-married
+100000514,34, Male,Bronze,Rural, Prof-specialty,Married
+100000515,28, Male,Silver,Suburban, Craft-repair, Divorced
+100000516,57, Female,Gold,,, Widowed
+100000517,25, Female,Silver,Urban, Adm-clerical, Never-married
+100000518,20, Male,Bronze,Rural,, Never-married
+100000519,21, Female,Gold,Rural,, Never-married
+100000520,34, Male,Platinum,Urban, Prof-specialty,Married
+100000521,38, Male,Gold,Suburban, Exec-managerial,Married
+100000522,50, Male,Silver,Urban, Exec-managerial,Married
+100000523,24, Male,Bronze,Suburban, Handlers-cleaners, Divorced
+100000524,37, Male,Bronze,Suburban, Tech-support,Married
+100000525,44, Male,Silver,Urban, Machine-op-inspct, Divorced
+100000526,28, Female,Silver,Urban, Sales,Married
+100000527,42, Male,Gold,Urban, Exec-managerial,Married
+100000528,74, Female,Platinum,Urban, Adm-clerical, Divorced
+100000529,38, Male,Bronze,Rural, Craft-repair,Married
+100000530,44, Male,Silver,, Prof-specialty,Married
+100000531,44, Female,Silver,Urban, Machine-op-inspct, Divorced
+100000532,26, Male,Silver,Suburban, Machine-op-inspct, Never-married
+100000533,36, Male,Platinum,Suburban, Other-service,Married
+100000534,41, Female,Bronze,Urban, Exec-managerial,Married
+100000535,67, Male,Platinum,Rural, Prof-specialty,Married
+100000536,39, Male,Gold,, Tech-support,Married
+100000537,57, Female,Silver,Rural, Priv-house-serv, Widowed
+100000538,29, Male,Gold,Urban, Craft-repair, Separated
+100000539,31, Female,Silver,Suburban, Farming-fishing, Never-married
+100000540,34, Female,Gold,Rural,, Never-married
+100000541,44, Male,Platinum,Urban, Transport-moving,Married
+100000542,29, Male,Gold,Urban, Prof-specialty, Never-married
+100000543,30, Female,Bronze,Suburban, Handlers-cleaners, Never-married
+100000544,27, Male,Silver,, Transport-moving, Never-married
+100000545,27, Male,Silver,Rural, Sales,Married
+100000546,32, Female,Gold,Rural, Handlers-cleaners, Never-married
+100000547,58, Female,Gold,Urban, Other-service,Married
+100000548,35, Male,Silver,Urban, Protective-serv,Married
+100000549,21, Male,Bronze,Rural, Handlers-cleaners, Never-married
+100000550,28, Male,Silver,Urban, Craft-repair, Never-married
+100000551,46, Male,Gold,Rural, Exec-managerial, Divorced
+100000552,36, Female,Silver,, Other-service, Separated
+100000553,72, Female,Platinum,Suburban, Adm-clerical, Widowed
+100000554,35, Female,Platinum,, Machine-op-inspct,Married
+100000555,33, Female,Platinum,Rural, Craft-repair, Divorced
+100000556,69, Female,Gold,Rural, Machine-op-inspct, Never-married
+100000557,35, Male,Silver,Rural, Machine-op-inspct,Married
+100000558,31, Female,Gold,, Adm-clerical, Separated
+100000559,34, Female,Silver,, Tech-support,Married
+100000560,30, Male,Silver,Rural, Other-service,Married
+100000561,28, Male,Gold,Rural, Transport-moving, Never-married
+100000562,54, Male,Gold,Urban, Sales,Married
+100000563,47, Male,Gold,Suburban, Prof-specialty,Married
+100000564,24, Female,Bronze,Rural, Handlers-cleaners, Never-married
+100000565,52, Male,Silver,Urban, Prof-specialty,Married
+100000566,20, Male,Gold,Rural, Handlers-cleaners, Never-married
+100000567,43, Male,Silver,Urban, Exec-managerial,Married
+100000568,45, Female,Bronze,Urban, Other-service, Separated
+100000569,29, Male,Bronze,Suburban, Craft-repair, Separated
+100000570,47, Male,Platinum,, Exec-managerial, Divorced
+100000571,24, Male,Silver,Suburban, Craft-repair, Never-married
+100000572,51, Male,Silver,Rural, Prof-specialty,Married
+100000573,17, Male,Silver,Suburban, Sales, Never-married
+100000574,37, Male,Silver,, Craft-repair,Married
+100000575,27, Female,Platinum,Rural, Prof-specialty, Never-married
+100000576,29, Male,Silver,Urban, Exec-managerial,Married
+100000577,18, Male,Gold,Rural,, Never-married
+100000578,36, Female,Gold,Urban, Sales, Divorced
+100000579,58, Female,Silver,Suburban, Prof-specialty, Never-married
+100000580,26, Male,Silver,Suburban, Craft-repair,Married
+100000581,65, Male,Gold,Rural,,Married
+100000582,57, Male,Platinum,Suburban, Sales,Married
+100000583,59, Male,Gold,Suburban, Craft-repair,Married
+100000584,27, Male,Platinum,Urban, Machine-op-inspct,Married
+100000585,31, Male,Gold,Rural, Tech-support, Never-married
+100000586,21, Female,Platinum,Rural, Sales, Never-married
+100000587,29, Male,Silver,Urban, Adm-clerical, Never-married
+100000588,18, Male,Gold,Rural, Other-service, Never-married
+100000589,52, Male,Platinum,Urban, Craft-repair,Married
+100000590,57, Male,Bronze,Rural, Prof-specialty, Divorced
+100000591,42, Male,Bronze,Rural,,Married
+100000592,55, Female,Bronze,Suburban,,Married
+100000593,60, Male,Gold,Rural, Transport-moving, Never-married
+100000594,31, Male,Gold,Urban, Prof-specialty,Married
+100000595,23, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000596,27, Male,Bronze,Urban, Sales, Never-married
+100000597,23, Female,Platinum,Suburban,, Never-married
+100000598,42, Male,Gold,Urban, Prof-specialty,Married
+100000599,25, Male,Silver,Suburban, Tech-support, Never-married
+100000600,49, Female,Silver,Urban, Prof-specialty, Never-married
+100000601,32, Male,Gold,Urban, Tech-support, Never-married
+100000602,19, Male,Gold,Suburban, Adm-clerical, Never-married
+100000603,60, Female,Gold,, Other-service, Divorced
+100000604,42, Male,Silver,Rural, Other-service,Married
+100000605,35, Male,Gold,Urban, Farming-fishing, Never-married
+100000606,48, Female,Platinum,Suburban, Adm-clerical, Never-married
+100000607,51, Male,Silver,, Craft-repair,Married
+100000608,29, Male,Bronze,Rural, Craft-repair, Never-married
+100000609,36, Male,Gold,Rural, Exec-managerial, Separated
+100000610,17, Female,Platinum,Rural, Other-service, Never-married
+100000611,52, Female,Platinum,Urban, Prof-specialty, Divorced
+100000612,24, Male,Silver,, Craft-repair, Never-married
+100000613,24, Male,Gold,Suburban, Handlers-cleaners,Married
+100000614,26, Male,Silver,Rural, Prof-specialty, Never-married
+100000615,27, Female,Bronze,Suburban, Other-service, Never-married
+100000616,39, Male,Bronze,Rural, Handlers-cleaners, Never-married
+100000617,30, Male,Bronze,Rural, Transport-moving,Married
+100000618,50, Male,Bronze,Suburban, Exec-managerial,Married
+100000619,52, Male,Gold,Urban, Sales,Married
+100000620,46, Male,Gold,Rural, Prof-specialty,Married
+100000621,23, Female,Platinum,Rural, Sales, Never-married
+100000622,45, Female,Bronze,Rural, Other-service, Widowed
+100000623,65, Female,Platinum,Rural, Priv-house-serv, Widowed
+100000624,29, Male,Bronze,Rural, Transport-moving,Married
+100000625,47, Male,Platinum,, Handlers-cleaners,Married
+100000626,30, Male,Gold,Rural, Farming-fishing, Never-married
+100000627,34, Male,Silver,Rural, Sales,Married
+100000628,38, Male,Gold,Rural, Sales,Married
+100000629,33, Male,Bronze,Rural, Exec-managerial,Married
+100000630,49, Male,Bronze,Urban, Sales,Married
+100000631,47, Female,Gold,Urban, Other-service, Never-married
+100000632,49, Female,Gold,Rural, Other-service, Separated
+100000633,43, Male,Silver,Rural, Craft-repair,Married
+100000634,30, Female,Silver,Suburban, Adm-clerical,Married
+100000635,58, Male,Silver,, Craft-repair,Married
+100000636,19, Female,Gold,Rural, Other-service, Never-married
+100000637,21, Male,Gold,Urban, Handlers-cleaners, Never-married
+100000638,33, Male,Silver,, Exec-managerial,Married
+100000639,47, Male,Silver,Rural, Transport-moving,Married
+100000640,52, Male,Gold,Suburban, Prof-specialty,Married
+100000641,26, Male,Gold,Rural, Craft-repair, Divorced
+100000642,60, Male,Bronze,Rural, Craft-repair,Married
+100000643,21, Male,Bronze,Urban, Handlers-cleaners, Never-married
+100000644,36, Male,Bronze,Urban, Sales,Married
+100000645,31, Male,Silver,Rural, Craft-repair,Married
+100000646,50, Male,Silver,, Prof-specialty, Separated
+100000647,31, Female,Gold,Urban, Adm-clerical, Divorced
+100000648,71, Male,Platinum,, Craft-repair,Married
+100000649,58, Male,Platinum,Urban,,Married
+100000650,30, Male,Bronze,, Tech-support,Married
+100000651,20, Male,Gold,Rural, Other-service, Never-married
+100000652,24, Male,Platinum,, Exec-managerial, Never-married
+100000653,35, Male,Platinum,Urban, Prof-specialty,Married
+100000654,38, Female,Gold,Suburban, Exec-managerial, Separated
+100000655,27, Female,Bronze,Suburban, Machine-op-inspct, Never-married
+100000656,29, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000657,70, Female,Silver,Urban,, Widowed
+100000658,34, Male,Gold,Rural, Craft-repair,Married
+100000659,44, Male,Bronze,, Craft-repair,Married
+100000660,43, Male,Platinum,Rural, Machine-op-inspct,Married
+100000661,44, Male,Silver,Rural, Handlers-cleaners,Married
+100000662,35, Male,Silver,, Sales, Never-married
+100000663,27, Male,Platinum,Suburban, Prof-specialty, Never-married
+100000664,43, Male,Bronze,Urban, Prof-specialty, Never-married
+100000665,20, Female,Gold,, Sales, Never-married
+100000666,42, Female,Silver,Urban, Prof-specialty, Divorced
+100000667,27, Male,Silver,Suburban, Transport-moving,Married
+100000668,42, Male,Platinum,Rural, Craft-repair,Married
+100000669,20, Female,Silver,Urban,,Married
+100000670,24, Male,Silver,Suburban, Machine-op-inspct, Never-married
+100000671,48, Male,Silver,Suburban, Exec-managerial, Divorced
+100000672,17, Female,Gold,Urban,, Never-married
+100000673,17, Male,Platinum,, Farming-fishing, Never-married
+100000674,33, Male,Platinum,Suburban, Exec-managerial,Married
+100000675,50, Male,Bronze,Suburban, Sales,Married
+100000676,22, Female,Platinum,Urban, Sales, Never-married
+100000677,17, Male,Platinum,Rural, Other-service, Never-married
+100000678,32, Male,Platinum,Rural, Adm-clerical,Married
+100000679,31, Male,Platinum,Rural, Craft-repair, Never-married
+100000680,58, Male,Silver,Suburban, Exec-managerial, Widowed
+100000681,29, Male,Bronze,Suburban, Protective-serv, Never-married
+100000682,37, Male,Gold,Urban, Craft-repair,Married
+100000683,34, Male,Gold,Rural, Craft-repair,Married
+100000684,23, Male,Silver,Suburban, Exec-managerial, Separated
+100000685,18, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000686,34, Female,Bronze,Rural, Exec-managerial, Divorced
+100000687,66, Male,Bronze,Rural,, Never-married
+100000688,45, Female,Bronze,Urban, Prof-specialty,Married
+100000689,41, Male,Gold,Urban, Exec-managerial, Never-married
+100000690,26, Male,Silver,Rural, Other-service, Never-married
+100000691,54, Male,Bronze,Urban, Farming-fishing,Married
+100000692,24, Female,Gold,Urban, Machine-op-inspct, Never-married
+100000693,42, Male,Bronze,, Prof-specialty,Married
+100000694,20, Male,Platinum,Rural, Prof-specialty, Never-married
+100000695,23, Female,Platinum,Suburban, Tech-support, Never-married
+100000696,25, Male,Bronze,Suburban,, Never-married
+100000697,35, Male,Gold,Suburban, Prof-specialty, Never-married
+100000698,31, Male,Silver,Rural, Tech-support,Married
+100000699,30, Female,Gold,Suburban, Prof-specialty, Never-married
+100000700,19, Female,Bronze,Rural, Sales, Never-married
+100000701,36, Male,Silver,Rural, Prof-specialty, Never-married
+100000702,31, Female,Gold,Urban, Sales, Widowed
+100000703,21, Male,Bronze,, Handlers-cleaners, Never-married
+100000704,31, Male,Platinum,Suburban, Craft-repair,Married
+100000705,46, Female,Silver,Suburban, Prof-specialty, Divorced
+100000706,44, Female,Silver,Urban, Exec-managerial, Divorced
+100000707,40, Male,Platinum,Suburban, Other-service,Married
+100000708,45, Male,Bronze,Rural, Sales, Never-married
+100000709,60, Male,Gold,Suburban, Craft-repair,Married
+100000710,18, Male,Gold,Suburban, Other-service, Never-married
+100000711,28, Male,Silver,, Prof-specialty,Married
+100000712,36, Female,Bronze,, Adm-clerical, Divorced
+100000713,36, Male,Platinum,, Prof-specialty, Separated
+100000714,40, Male,Platinum,Urban, Tech-support,Married
+100000715,36, Female,Bronze,Suburban, Adm-clerical, Divorced
+100000716,31, Female,Silver,Suburban, Other-service, Separated
+100000717,33, Male,Silver,Rural, Machine-op-inspct,Married
+100000718,19, Female,Gold,Rural, Tech-support, Never-married
+100000719,22, Female,Bronze,Suburban, Sales, Never-married
+100000720,34, Male,Bronze,Urban, Exec-managerial,Married
+100000721,33, Male,Bronze,Rural, Other-service, Never-married
+100000722,41, Male,Bronze,Rural, Craft-repair,Married
+100000723,29, Male,Gold,Urban, Prof-specialty, Never-married
+100000724,50, Male,Platinum,Suburban, Exec-managerial,Married
+100000725,42, Male,Bronze,, Exec-managerial,Married
+100000726,43, Male,Gold,Rural, Prof-specialty, Never-married
+100000727,44, Female,Platinum,Rural, Sales,Married
+100000728,20, Female,Platinum,Rural, Other-service, Never-married
+100000729,31, Male,Silver,Suburban, Other-service,Married
+100000730,65, Male,Silver,Rural, Exec-managerial,Married
+100000731,23, Female,Gold,Urban, Other-service, Never-married
+100000732,55, Female,Silver,Urban, Adm-clerical, Divorced
+100000733,26, Male,Platinum,, Adm-clerical,Married
+100000734,25, Female,Bronze,, Other-service, Never-married
+100000735,45, Female,Bronze,Suburban,,Married
+100000736,35, Male,Gold,Suburban, Craft-repair,Married
+100000737,36, Female,Bronze,Rural, Sales, Never-married
+100000738,43, Male,Silver,Urban, Prof-specialty,Married
+100000739,56, Female,Bronze,Rural, Other-service, Widowed
+100000740,42, Male,Silver,Rural, Tech-support,Married
+100000741,19, Female,Silver,Rural, Other-service, Never-married
+100000742,55, Male,Gold,Urban, Transport-moving,Married
+100000743,42, Female,Bronze,, Exec-managerial, Never-married
+100000744,26, Male,Silver,Suburban, Tech-support, Never-married
+100000745,17, Male,Bronze,Suburban, Handlers-cleaners, Never-married
+100000746,42, Female,Platinum,Rural, Prof-specialty,Married
+100000747,55, Male,Bronze,Suburban, Transport-moving,Married
+100000748,32, Female,Platinum,Rural, Adm-clerical, Never-married
+100000749,29, Male,Gold,Rural, Craft-repair, Never-married
+100000750,46, Male,Platinum,Rural, Prof-specialty,Married
+100000751,29, Male,Gold,, Exec-managerial,Married
+100000752,22, Male,Silver,Urban, Prof-specialty, Never-married
+100000753,58, Male,Platinum,Urban, Craft-repair,Married
+100000754,23, Male,Bronze,Urban, Transport-moving, Never-married
+100000755,39, Male,Platinum,, Handlers-cleaners, Never-married
+100000756,27, Male,Silver,, Craft-repair, Never-married
+100000757,54, Male,Platinum,Urban, Transport-moving,Married
+100000758,33, Female,Gold,Suburban, Prof-specialty, Never-married
+100000759,46, Female,Bronze,Suburban, Adm-clerical,Married
+100000760,37, Male,Gold,Suburban, Farming-fishing, Never-married
+100000761,36, Female,Gold,Suburban, Other-service, Never-married
+100000762,59, Female,Gold,Rural, Adm-clerical,Married
+100000763,34, Male,Silver,Urban, Protective-serv, Divorced
+100000764,53, Male,Platinum,Urban, Exec-managerial,Married
+100000765,51, Male,Silver,Suburban, Sales, Never-married
+100000766,32, Female,Gold,Rural, Other-service, Separated
+100000767,31, Male,Platinum,Rural, Other-service,Married
+100000768,22, Female,Bronze,Rural, Sales,Married
+100000769,47, Female,Platinum,Suburban, Sales, Divorced
+100000770,32, Male,Bronze,Suburban, Machine-op-inspct, Never-married
+100000771,26, Female,Gold,Suburban, Farming-fishing, Never-married
+100000772,37, Male,Silver,Urban, Farming-fishing, Separated
+100000773,31, Male,Gold,Rural, Craft-repair, Divorced
+100000774,37, Female,Silver,Rural, Tech-support,Married
+100000775,55, Male,Platinum,Rural, Sales, Never-married
+100000776,23, Male,Platinum,Suburban, Tech-support, Divorced
+100000777,36, Female,Platinum,Rural, Adm-clerical, Divorced
+100000778,34, Male,Platinum,Urban, Prof-specialty,Married
+100000779,43, Male,Platinum,Rural, Sales,Married
+100000780,54, Male,Silver,, Tech-support, Never-married
+100000781,43, Male,Platinum,Rural, Craft-repair,Married
+100000782,28, Female,Gold,Rural, Machine-op-inspct, Never-married
+100000783,40, Male,Bronze,Suburban, Exec-managerial,Married
+100000784,41, Male,Platinum,Rural, Exec-managerial,Married
+100000785,40, Female,Bronze,Rural, Sales, Never-married
+100000786,42, Female,Silver,Rural, Adm-clerical, Divorced
+100000787,61, Male,Bronze,Urban, Farming-fishing,Married
+100000788,18, Male,Silver,Rural, Machine-op-inspct, Never-married
+100000789,59, Male,Bronze,Urban,,Married
+100000790,21, Female,Platinum,Rural,, Never-married
+100000791,48, Male,Bronze,Urban, Tech-support,Married
+100000792,41, Male,Platinum,Suburban, Tech-support,Married
+100000793,18, Male,Platinum,Suburban,, Never-married
+100000794,23, Female,Platinum,Urban, Sales, Never-married
+100000795,60, Male,Platinum,Rural, Transport-moving,Married
+100000796,22, Male,Gold,Suburban, Other-service, Never-married
+100000797,61, Male,Platinum,Suburban, Machine-op-inspct,Married
+100000798,25, Male,Platinum,Urban, Machine-op-inspct, Never-married
+100000799,46, Male,Silver,Suburban, Tech-support, Never-married
+100000800,43, Male,Silver,, Exec-managerial,Married
+100000801,43, Male,Gold,Rural, Craft-repair, Divorced
+100000802,24, Male,Silver,Urban, Other-service, Never-married
+100000803,68, Male,Gold,Rural, Farming-fishing, Never-married
+100000804,31, Female,Platinum,, Adm-clerical, Divorced
+100000805,17, Female,Bronze,Urban, Sales, Never-married
+100000806,32, Male,Silver,Rural, Craft-repair,Married
+100000807,50, Male,Platinum,Urban,,Married
+100000808,33, Male,Silver,, Prof-specialty,Married
+100000809,64, Male,Platinum,Suburban, Prof-specialty,Married
+100000810,20, Male,Gold,Urban, Transport-moving, Never-married
+100000811,30, Female,Bronze,Rural, Other-service, Separated
+100000812,22, Male,Gold,Suburban,, Never-married
+100000813,43, Male,Platinum,Suburban, Exec-managerial, Divorced
+100000814,22, Male,Silver,Urban, Adm-clerical, Never-married
+100000815,17, Male,Gold,Urban, Farming-fishing, Never-married
+100000816,47, Female,Gold,Urban, Other-service,Married
+100000817,41, Female,Bronze,Urban, Prof-specialty, Never-married
+100000818,56, Male,Gold,, Craft-repair,Married
+100000819,64, Male,Silver,Suburban, Transport-moving,Married
+100000820,47, Male,Silver,Urban, Transport-moving,Married
+100000821,48, Male,Platinum,Urban, Adm-clerical, Never-married
+100000822,31, Female,Silver,Urban, Prof-specialty, Never-married
+100000823,29, Male,Platinum,Rural, Tech-support, Never-married
+100000824,30, Female,Platinum,Rural, Adm-clerical, Widowed
+100000825,32, Male,Gold,, Exec-managerial,Married
+100000826,57, Male,Bronze,Rural, Transport-moving, Widowed
+100000827,62, Female,Bronze,Rural, Other-service, Widowed
+100000828,39, Female,Gold,Suburban, Machine-op-inspct, Separated
+100000829,43, Male,Gold,Rural, Adm-clerical, Never-married
+100000830,24, Male,Silver,Urban, Sales, Never-married
+100000831,42, Male,Gold,Urban,,Married
+100000832,53, Female,Bronze,Rural, Adm-clerical,Married
+100000833,26, Male,Bronze,Rural, Handlers-cleaners, Never-married
+100000834,73, Male,Bronze,, Exec-managerial,Married
+100000835,72, Female,Platinum,Urban,, Widowed
+100000836,55, Male,Gold,Urban, Machine-op-inspct,Married
+100000837,25, Male,Gold,Rural, Adm-clerical, Divorced
+100000838,41, Female,Platinum,Urban, Prof-specialty, Divorced
+100000839,24, Male,Silver,Suburban, Exec-managerial, Never-married
+100000840,63, Male,Platinum,Suburban, Farming-fishing, Widowed
+100000841,17, Male,Platinum,Suburban, Sales, Never-married
+100000842,35, Male,Bronze,Suburban, Craft-repair,Married
+100000843,51, Male,Silver,Suburban, Prof-specialty,Married
+100000844,62, Female,Bronze,Rural, Prof-specialty, Widowed
+100000845,55, Male,Platinum,Rural, Craft-repair,Married
+100000846,43, Male,Silver,Urban, Prof-specialty, Divorced
+100000847,40, Female,Gold,Suburban, Other-service, Divorced
+100000848,37, Male,Bronze,Rural, Exec-managerial,Married
+100000849,39, Male,Bronze,Suburban, Craft-repair,Married
+100000850,31, Male,Silver,Suburban, Craft-repair, Never-married
+100000851,61, Female,Bronze,Suburban, Prof-specialty, Widowed
+100000852,26, Female,Silver,Rural, Adm-clerical, Divorced
+100000853,46, Male,Bronze,Rural, Sales,Married
+100000854,26, Female,Gold,Suburban, Prof-specialty, Never-married
+100000855,48, Male,Silver,Rural, Prof-specialty, Divorced
+100000856,34, Male,Bronze,Suburban, Transport-moving, Never-married
+100000857,34, Female,Gold,Urban, Adm-clerical, Never-married
+100000858,59, Male,Gold,Suburban, Other-service,Married
+100000859,34, Female,Silver,Rural, Prof-specialty, Never-married
+100000860,49, Female,Gold,Urban, Exec-managerial, Never-married
+100000861,18, Female,Silver,, Adm-clerical, Never-married
+100000862,43, Male,Silver,Suburban, Farming-fishing,Married
+100000863,48, Male,Platinum,, Exec-managerial,Married
+100000864,28, Male,Silver,Urban, Exec-managerial,Married
+100000865,33, Male,Silver,Urban, Machine-op-inspct,Married
+100000866,24, Female,Bronze,Urban, Sales, Never-married
+100000867,21, Male,Platinum,Suburban, Handlers-cleaners, Never-married
+100000868,17, Male,Gold,Suburban, Sales, Never-married
+100000869,39, Male,Bronze,Urban, Farming-fishing,Married
+100000870,29, Male,Gold,Urban, Prof-specialty, Separated
+100000871,44, Male,Gold,Rural, Exec-managerial,Married
+100000872,24, Male,Silver,Rural, Transport-moving, Never-married
+100000873,71, Male,Platinum,Urban, Sales,Married
+100000874,51, Male,Platinum,Urban, Sales,Married
+100000875,55, Male,Bronze,Urban, Other-service, Divorced
+100000876,41, Male,Silver,Rural, Exec-managerial,Married
+100000877,23, Female,Platinum,Urban, Handlers-cleaners, Never-married
+100000878,38, Female,Platinum,, Adm-clerical, Divorced
+100000879,39, Male,Silver,Rural, Transport-moving,Married
+100000880,19, Female,Gold,Suburban, Adm-clerical, Never-married
+100000881,49, Female,Gold,Rural, Machine-op-inspct, Divorced
+100000882,32, Male,Platinum,, Adm-clerical,Married
+100000883,27, Male,Bronze,Rural, Craft-repair,Married
+100000884,38, Male,Gold,Urban, Sales,Married
+100000885,33, Female,Platinum,Rural, Craft-repair,Married
+100000886,63, Male,Platinum,Urban,,Married
+100000887,23, Male,Gold,Rural, Exec-managerial, Never-married
+100000888,33, Male,Bronze,Rural, Craft-repair,Married
+100000889,54, Male,Silver,Rural, Sales,Married
+100000890,29, Female,Platinum,Suburban, Tech-support, Divorced
+100000891,48, Female,Silver,Suburban,, Divorced
+100000892,35, Male,Gold,Urban, Exec-managerial, Never-married
+100000893,28, Female,Platinum,Urban, Adm-clerical,Married
+100000894,37, Male,Silver,Rural, Prof-specialty,Married
+100000895,42, Male,Gold,Suburban, Farming-fishing,Married
+100000896,40, Male,Silver,Urban, Prof-specialty,Married
+100000897,47, Male,Platinum,, Sales, Divorced
+100000898,22, Female,Bronze,Suburban, Exec-managerial, Never-married
+100000899,30, Male,Gold,Suburban, Exec-managerial,Married
+100000900,28, Male,Platinum,Suburban, Tech-support,Married
+100000901,63, Male,Gold,Urban, Other-service,Married
+100000902,51, Male,Platinum,Suburban, Craft-repair,Married
+100000903,22, Female,Gold,Rural, Handlers-cleaners, Never-married
+100000904,27, Male,Platinum,Urban,,Married
+100000905,35, Male,Gold,Urban, Sales, Never-married
+100000906,46, Female,Silver,Urban, Machine-op-inspct, Divorced
+100000907,37, Male,Gold,Urban, Machine-op-inspct, Divorced
+100000908,24, Male,Silver,, Prof-specialty, Never-married
+100000909,37, Male,Gold,Urban, Handlers-cleaners, Divorced
+100000910,53, Male,Silver,Urban, Tech-support,Married
+100000911,27, Male,Bronze,Rural, Sales, Never-married
+100000912,38, Male,Silver,Rural, Craft-repair, Divorced
+100000913,53, Male,Bronze,Urban, Farming-fishing,Married
+100000914,34, Male,Gold,, Craft-repair, Never-married
+100000915,23, Male,Bronze,Urban, Sales, Never-married
+100000916,39, Male,Platinum,Urban, Exec-managerial,Married
+100000917,43, Female,Gold,Rural, Prof-specialty,Married
+100000918,67, Male,Bronze,Urban, Exec-managerial,Married
+100000919,81, Male,Bronze,Rural, Exec-managerial,Married
+100000920,21, Male,Silver,Rural, Other-service, Never-married
+100000921,23, Male,Gold,Urban, Sales, Never-married
+100000922,25, Male,Platinum,Suburban, Transport-moving, Never-married
+100000923,42, Female,Platinum,Urban, Machine-op-inspct,Married
+100000924,38, Female,Platinum,Urban, Adm-clerical,Married
+100000925,64, Male,Platinum,Urban,,Married
+100000926,32, Male,Gold,Urban, Machine-op-inspct,Married
+100000927,37, Male,Platinum,Urban, Machine-op-inspct,Married
+100000928,51, Male,Platinum,Suburban, Exec-managerial,Married
+100000929,22, Female,Bronze,Rural, Sales, Never-married
+100000930,33, Female,Bronze,Urban, Priv-house-serv,Married
+100000931,42, Male,Platinum,, Machine-op-inspct, Divorced
+100000932,19, Female,Bronze,Suburban,, Never-married
+100000933,51, Male,Gold,Rural, Other-service,Married
+100000934,23, Female,Silver,Suburban, Adm-clerical,Married
+100000935,37, Male,Silver,Urban, Machine-op-inspct,Married
+100000936,37, Male,Silver,Urban, Craft-repair,Married
+100000937,47, Female,Bronze,Rural, Prof-specialty, Never-married
+100000938,41, Male,Silver,Urban, Prof-specialty,Married
+100000939,33, Male,Bronze,Suburban, Craft-repair,Married
+100000940,31, Male,Gold,Urban, Sales, Never-married
+100000941,31, Female,Bronze,Urban, Other-service, Divorced
+100000942,35, Male,Gold,Suburban, Machine-op-inspct,Married
+100000943,38, Male,Silver,Suburban, Exec-managerial,Married
+100000944,18, Female,Silver,Urban, Other-service, Never-married
+100000945,20, Male,Platinum,Rural, Machine-op-inspct,Married
+100000946,54, Female,Gold,Urban, Exec-managerial, Divorced
+100000947,40, Female,Platinum,Rural, Adm-clerical, Divorced
+100000948,36, Female,Platinum,, Exec-managerial,Married
+100000949,43, Male,Bronze,, Craft-repair, Divorced
+100000950,44, Male,Bronze,, Farming-fishing, Divorced
+100000951,44, Female,Silver,Urban, Prof-specialty,Married
+100000952,43, Male,Silver,Suburban, Exec-managerial,Married
+100000953,51, Female,Platinum,Rural, Other-service, Widowed
+100000954,18, Female,Platinum,Suburban, Other-service, Never-married
+100000955,51, Male,Platinum,Suburban, Exec-managerial,Married
+100000956,41, Male,Gold,Suburban, Craft-repair,Married
+100000957,44, Male,Silver,Suburban, Sales,Married
+100000958,33, Male,Platinum,Suburban, Transport-moving, Divorced
+100000959,33, Male,Gold,Suburban, Exec-managerial,Married
+100000960,42, Male,Gold,Urban, Exec-managerial,Married
+100000961,25, Male,Silver,, Prof-specialty,Married
+100000962,32, Female,Gold,Urban, Machine-op-inspct, Divorced
+100000963,32, Male,Bronze,Rural, Craft-repair,Married
+100000964,36, Female,Bronze,Suburban, Exec-managerial, Divorced
+100000965,28, Male,Silver,Urban, Transport-moving,Married
+100000966,20, Female,Silver,Urban, Other-service, Never-married
+100000967,35, Male,Bronze,Suburban, Sales,Married
+100000968,55, Male,Gold,Rural, Craft-repair,Married
+100000969,48, Male,Gold,Suburban, Exec-managerial,Married
+100000970,36, Female,Platinum,Suburban,, Widowed
+100000971,34, Male,Gold,Suburban, Craft-repair,Married
+100000972,28, Female,Bronze,Suburban, Tech-support, Never-married
+100000973,67, Male,Platinum,Rural, Exec-managerial, Widowed
+100000974,37, Male,Platinum,Rural, Craft-repair,Married
+100000975,44, Male,Gold,Rural, Transport-moving, Never-married
+100000976,25, Female,Silver,Urban, Sales, Never-married
+100000977,21, Female,Gold,Rural, Exec-managerial, Never-married
+100000978,40, Male,Bronze,Suburban, Prof-specialty,Married
+100000979,78, Female,Gold,Urban, Other-service, Widowed
+100000980,34, Male,Platinum,Suburban, Handlers-cleaners, Divorced
+100000981,49, Female,Bronze,Urban, Adm-clerical, Never-married
+100000982,22, Female,Bronze,Suburban, Adm-clerical, Never-married
+100000983,23, Female,Bronze,Rural,, Never-married
+100000984,60, Male,Bronze,Urban, Farming-fishing, Never-married
+100000985,45, Male,Bronze,Urban, Protective-serv, Widowed
+100000986,63, Female,Bronze,Suburban, Other-service, Divorced
+100000987,41, Female,Silver,Urban, Craft-repair, Never-married
+100000988,47, Female,Bronze,Suburban, Adm-clerical, Divorced
+100000989,44, Male,Gold,Suburban, Craft-repair, Divorced
+100000990,51, Female,Silver,Urban, Prof-specialty, Widowed
+100000991,46, Male,Gold,Rural, Sales, Never-married
+100000992,41, Male,Platinum,, Machine-op-inspct,Married
+100000993,50, Male,Bronze,Urban, Craft-repair,Married
+100000994,47, Male,Platinum,Urban, Adm-clerical,Married
+100000995,35, Male,Gold,Rural, Exec-managerial, Never-married
+100000996,56, Male,Platinum,Urban, Exec-managerial,Married
+100000997,45, Male,Gold,Rural, Prof-specialty, Divorced
+100000998,48, Male,Platinum,Rural, Exec-managerial, Divorced
+100000999,40, Male,Gold,Suburban, Machine-op-inspct,Married
+100001000,39, Male,Silver,Rural, Exec-managerial,Married
